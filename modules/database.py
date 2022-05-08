@@ -10,10 +10,11 @@ class localdatabase:
     def __init__( self, name ) -> None:
         try: 
             dbconnection = sqlite3.connect(name)
-        except:
+        except Error as e:
             print(" DB connection without success.")
+            print(e)
         else:
-            print("Connection with database is done.")
+            print("Connection with database is done.")         
         
         self.cursor = dbconnection.cursor()
     
