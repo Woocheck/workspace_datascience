@@ -1,5 +1,7 @@
 
-import sqlite3 
+import sqlite3
+
+from colorama import Cursor 
 
 
 
@@ -13,9 +15,17 @@ class localdatabase:
         else:
             print("Connection with database is done.")
         
-        cursor = dbconnection.cursor()
+        self.cursor = dbconnection.cursor()
     
-    def tableCreate( name, columnsDictionary ):
-        """Create new table in database""" 
+    def tableCreate(self, tablename, columnsDictionary ):
+        """Create new table in database"""        
+        order = 'CREATE TABLE IF NOT EXISTS' + tablename +'('
+        
+        for key in columnsDictionary:
+            order = order + columnsDictionary(key)+' '+key+', '
+        
+        order = order[:-3] + ')'
+        
+        self.cursor.execute( order )
         
         
