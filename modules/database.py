@@ -1,7 +1,7 @@
 
 import sqlite3
 from sqlite3 import Error
-
+import pandas as pd
 from colorama import Cursor 
 
 
@@ -40,4 +40,12 @@ class localdatabase:
         print( "Prepared order:", order )
         self.cursor.execute( order, self.cursor )
         
+    def insertManyIn( self,  tableName, dataList ):
+        """Insert data from list in DBtable"""
         
+        order = "insert into " + tableName + "values("
+        for column in range( len(dataList.columns) ):
+            order += "?,"
+        order = order[:-1] + ")"
+        
+        self.cursor.executemany( order, dataList )
