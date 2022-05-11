@@ -49,3 +49,9 @@ class localdatabase:
         order = order[:-1] + ")"
         
         self.cursor.executemany( order, dataList )
+        
+    def printWholeTable(self, tableName):
+        
+        order = "select * from " + tableName
+        for row in self.cursor.execute( order ):
+            print( row )
