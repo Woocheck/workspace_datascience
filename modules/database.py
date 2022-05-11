@@ -55,3 +55,9 @@ class localdatabase:
         order = "select * from " + tableName
         for row in self.cursor.execute( order ):
             print( row )
+    
+    def returnSearchResults(self, conditions ):
+        pass #TODO function to return search reasults in pandas dataframe
+    
+    def print searchReasults( self, contitions ):
+        pass #TODO function to print search reasults
