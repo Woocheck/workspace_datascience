@@ -59,5 +59,5 @@ class localdatabase:
     def returnSearchResults(self, conditions ):
         pass #TODO function to return search reasults in pandas dataframe
     
-    def print searchReasults( self, contitions ):
+    def printSearchReasults( self, contitions ):
         pass #TODO function to print search reasults
