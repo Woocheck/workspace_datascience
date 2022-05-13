@@ -56,8 +56,11 @@ class localdatabase:
         for row in self.cursor.execute( order ):
             print( row )
     
-    def returnSearchResults(self, conditions ):
-        pass #TODO function to return search reasults in pandas dataframe
-    
-    def printSearchReasults( self, contitions ):
-        pass #TODO function to print search reasults
+    def returnSearchResults(self, order ):
+        self.cursor.execute( order )
+        return self.cursor.fetchall()
+        
+        
+    def printSearchReasults( self, conditions ):
+        order = conditions
+        self.cursor.execute( order )
