@@ -23,4 +23,4 @@ db = database.localdatabase("gta.db")
 columnsDictionary = { "release_year" : "integer", 
                       "release_name" : "text", 
                       "city" : "text"}
-db.tableCreate( columnsDictionary )
+db.tableCreate( "gta", columnsDictionary )

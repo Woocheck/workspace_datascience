@@ -29,16 +29,16 @@ class localdatabase:
             print("Database shutdown successfully completed.")
     
     
-    def tableCreate( tablename, columnsDictionary ):
+    def tableCreate( self, tablename, columnsDictionary ):
         """Create new table in database"""        
-        order = 'CREATE TABLE IF NOT EXISTS' + tablename +'('
+        order = 'CREATE TABLE IF NOT EXISTS ' + tablename +'('
         
         for key in columnsDictionary:
-            order = order + columnsDictionary(key)+' '+key+', '
+            order = order + key+' '+columnsDictionary[key]+', '
         
-        order = order[:-3] + ')'
+        order = order[:-2] + ')'
         print( "Prepared order:", order )
-        self.cursor.execute( order, self.cursor )
+        self.cursor.execute( order )
         
     def insertManyIn( self,  tableName, dataList ):
         """Insert data from list in DBtable"""
