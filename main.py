@@ -1,4 +1,4 @@
-from modules import database
+from modules import database as create
 
 release_list = [
     (1997, "Grand Theft Auto", "state of New Guernsey"),
@@ -19,7 +19,7 @@ city_list = [
     ("Los Santos", "Los Angeles")
 ]
 
-db = database.localdatabase("gta.db")
+db = create.localdatabase("gta.db")
 columnsDictionary = { "release_year" : "integer", 
                       "release_name" : "text", 
                       "city" : "text"}
