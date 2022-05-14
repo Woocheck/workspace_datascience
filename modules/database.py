@@ -29,7 +29,7 @@ class localdatabase:
             print("Database shutdown successfully completed.")
     
     
-    def tableCreate(self, tablename, columnsDictionary ):
+    def tableCreate( tablename, columnsDictionary ):
         """Create new table in database"""        
         order = 'CREATE TABLE IF NOT EXISTS' + tablename +'('
         
