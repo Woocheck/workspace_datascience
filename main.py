@@ -1,4 +1,5 @@
 from modules import database as create
+import pandas as pd
 
 release_list = [
     (1997, "Grand Theft Auto", "state of New Guernsey"),
@@ -24,3 +25,4 @@ columnsDictionary = { "release_year" : "integer",
                       "release_name" : "text", 
                       "city" : "text"}
 db.tableCreate( "gta", columnsDictionary )
+db.insertManyIn( "gta", pd.DataFrame( release_list ) )

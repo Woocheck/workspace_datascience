@@ -43,11 +43,11 @@ class localdatabase:
     def insertManyIn( self,  tableName, dataList ):
         """Insert data from list in DBtable"""
         
-        order = "insert into " + tableName + "values("
+        order = "insert into " + tableName + " values("
         for column in range( len(dataList.columns) ):
             order += "?,"
         order = order[:-1] + ")"
-        
+        print( "Insert Many order: ", order )
         self.cursor.executemany( order, dataList )
         
     def printWholeTable(self, tableName):
