@@ -44,7 +44,7 @@ class localdatabase:
         """Insert data from list in DBtable"""
         
         order = "insert into " + tableName + " values("
-        for column in range( len(dataList.columns) ):
+        for column in range( len(dataList[0]) ):
             order += "?,"
         order = order[:-1] + ")"
         print( "Insert Many order: ", order )

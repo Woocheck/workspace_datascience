@@ -25,4 +25,4 @@ columnsDictionary = { "release_year" : "integer",
                       "release_name" : "text", 
                       "city" : "text"}
 db.tableCreate( "gta", columnsDictionary )
-db.insertManyIn( "gta", pd.DataFrame( release_list ) )
+db.insertManyIn( "gta", release_list )
