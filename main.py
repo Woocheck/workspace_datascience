@@ -20,9 +20,10 @@ city_list = [
     ("Los Santos", "Los Angeles")
 ]
 
-db = create.localdatabase("gta.db")
 columnsDictionary = { "release_year" : "integer", 
                       "release_name" : "text", 
                       "city" : "text"}
+
+db = create.localdatabase("gta.db")
 db.tableCreate( "gta", columnsDictionary )
 db.insertManyIn( "gta", release_list )
