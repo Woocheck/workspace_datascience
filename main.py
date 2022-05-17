@@ -27,3 +27,5 @@ columnsDictionary = { "release_year" : "integer",
 db = create.localdatabase("gta.db")
 db.tableCreate( "gta", columnsDictionary )
 db.insertManyIn( "gta", release_list )
+
+db.printSearchReasults( "select * from gta where city=:c",{"c": "Liberty City"} )

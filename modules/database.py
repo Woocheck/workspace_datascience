@@ -61,6 +61,7 @@ class localdatabase:
         return self.cursor.fetchall()
         
         
-    def printSearchReasults( self, conditions ):
-        order = conditions
-        self.cursor.execute( order )
+    def printSearchReasults( self, order, orderArgumentsDictionary ):       
+        self.cursor.execute( order, orderArgumentsDictionary )
+        print( self.cursor.fetchall() )
+        
