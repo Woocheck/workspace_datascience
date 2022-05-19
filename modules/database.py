@@ -60,7 +60,6 @@ class localdatabase:
         self.cursor.execute( order )
         return self.cursor.fetchall()
         
-        
     def printSearchReasults( self, order, orderArgumentsDictionary ):       
         self.cursor.execute( order, orderArgumentsDictionary )
         print( self.cursor.fetchall() )
