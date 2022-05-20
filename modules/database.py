@@ -2,7 +2,7 @@
 import sqlite3
 from sqlite3 import Error
 import pandas as pd
-from colorama import Cursor 
+import traceback
 
 
 
@@ -11,9 +11,9 @@ class localdatabase:
     def __init__( self, db_file ) -> None:
         try: 
             self.dbconnection = sqlite3.connect(db_file)
-        except Error as e:
+        except Exception:
             print(" DB connection without success.")
-            print(e)
+            traceback.print_exc()
         else:
             print("Connection with database is done.")         
         
@@ -22,9 +22,9 @@ class localdatabase:
     def __del__(self):
         try: 
             self.dbconnection.close()
-        except Error as e:
+        except Exception:
             print("Closing a database with a failure.")
-            print(e)
+            traceback.print_exc()
         else:
             print("Database shutdown successfully completed.")
     
