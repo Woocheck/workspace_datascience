@@ -15,25 +15,25 @@ class PyTrends:
         return self.data
     
     def trendsTimeLaps( self, dataBegin, dataEnd, passwordsList):
-        """Funkcja pobiera dan z google trends dla wybranego rzedziału czasowego."""
+        """The function gets the data from google trends for the selected time period."""
         self.py
-        #Formatowanie parametru 'timefrem z dat dla wybranego przedziału
+        #Formatting of the 'timefrem parameter with dates for the selected interval
         przedzial = dataBegin+' '+dataEnd
         self.pytrends.build_payload(passwordsList, cat=0, timeframe= przedzial, geo='', gprop='')
         result = self.pytrends.interest_over_time()
-        #Usuwanie zbędnej kolumny przekazywanej w wynikach zapytania
+        #Removing a redundant column passed in query results
         del result['isPartial']
         self.data = result    
         return self.data                    
 
 
     def meanCalculate( self ):
-        """Funkcja oblicza średnią i umieszcza wynik w osobnej kolumnie."""
+        """The function calculates the average and puts the result in a separate column."""
         self.data['Średnia występowania haseł'] = self.data.mean(axis=1)
         return self.data
 
     def correlation( self ):
-        """Funkcja zwraca wyniki obliczeń korelacji."""
+        """The function returns the results of the correlation calculation."""
         korelacja = self.data.corr()
         pd.set_option("display.precision", 4)
         return korelacja
