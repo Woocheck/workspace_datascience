@@ -27,14 +27,14 @@ class PyTrends:
         return self.data                    
 
 
-    def obliczSrednia( self ):
+    def meanCalculate( self ):
         """Funkcja oblicza średnią i umieszcza wynik w osobnej kolumnie."""
         self.data['Średnia występowania haseł'] = self.data.mean(axis=1)
         return self.data
 
-    def korelacja( self ):
+    def correlation( self ):
         """Funkcja zwraca wyniki obliczeń korelacji."""
-        korelacja = dane.corr()
+        korelacja = self.data.corr()
         pd.set_option("display.precision", 4)
         return korelacja
 
