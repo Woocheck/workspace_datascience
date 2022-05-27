@@ -38,15 +38,15 @@ class PyTrends:
         pd.set_option("display.precision", 4)
         return korelacja
 
-    def wykresDlaListy( dane_dla_listy_hasel ):
+    def listDiagram( passwordsListData ):
         fig, ax = plt.subplots()
         loc = plticker.MultipleLocator(base=60)
         ax.xaxis.set_major_locator(loc)
         ax.grid()
         
-        for element in dane_dla_listy_hasel.columns:
-            dane_dla_listy_hasel[element].plot( kind = 'line',\
-                        title = ('Wyniki Google Trends dla listy haseł'),\
+        for element in passwordsListData.columns:
+            passwordsListData[element].plot( kind = 'line',\
+                        title = ('Google Trends results for a list of keywords'),\
                         grid = True,\
                         fontsize = 11,\
                         figsize = ( 8, 8 ) )
@@ -57,7 +57,7 @@ class PyTrends:
                     transparent=False, bbox_inches=None, pad_inches=0.1,\
                     metadata=None)
 
-    def wykresSrednia( dane ):
+    def meanDiagram( dane ):
         daneSrednia = obliczSrednia( dane )
         
         fig, ax = plt.subplots()
