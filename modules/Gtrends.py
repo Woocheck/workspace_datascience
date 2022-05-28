@@ -57,17 +57,17 @@ class PyTrends:
                     transparent=False, bbox_inches=None, pad_inches=0.1,\
                     metadata=None)
 
-    def meanDiagram( dane ):
-        daneSrednia = obliczSrednia( dane )
+    def meanDiagram( self ):
+        daneSrednia = self.meanCalculate()
         
         fig, ax = plt.subplots()
         loc = plticker.MultipleLocator(base=60)
         ax.xaxis.set_major_locator(loc)
         ax.grid()
-        daneSrednia['Średnia występowania haseł'].plot( kind = 'line', title = ('Średnia z wynikow Gooogle Trends'), grid = True, fontsize = 11, figsize = ( 8, 8 ) )
+        daneSrednia['Average occurrence of keywords'].plot( kind = 'line', title = ('Gooogle Trends average'), grid = True, fontsize = 11, figsize = ( 8, 8 ) )
         ax.legend()
         plt.xlabel("Data")
-        fig.savefig('trendsSrednia', dpi=None, facecolor='w', edgecolor='w',\
+        fig.savefig('trendsMean', dpi=None, facecolor='w', edgecolor='w',\
                     orientation='portrait', papertype='a4', format=None,\
                     transparent=False, bbox_inches=None, pad_inches=0.1,\
                     metadata=None)
