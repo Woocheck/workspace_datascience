@@ -52,7 +52,7 @@ class PyTrends:
                         figsize = ( 8, 8 ) )
         ax.legend()
         plt.xlabel("Data")
-        fig.savefig('trendsDaneWykres', dpi=None, facecolor='w', edgecolor='w',\
+        fig.savefig('trendsDataDiagram', dpi=None, facecolor='w', edgecolor='w',\
                     orientation='portrait', papertype='a4', format=None,\
                     transparent=False, bbox_inches=None, pad_inches=0.1,\
                     metadata=None)
