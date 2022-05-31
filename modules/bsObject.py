@@ -3,31 +3,31 @@ from bs4 import BeautifulSoup as bs
 import re
 import pandas as pd
 
-#load html code from a url
-page = urllib.request.urlopen("https://docs.python.org/3/library/random.html")
-soup = bs(page)
 
-#find all function names
-names = soup.body.findAll('dt')
-function_names = re.findall('id="random.\w+', str(names))
-function_names = [item[4:] for item in function_names]
+class bsObject:
+  
+  def __init__(self, url ):
+    
+    self.page = urllib.request.urlopen( url )
+    self.soup = bs( self.page )
+  
+  def findRegAll( self, bodyName, regString ):
 
-#find all function descriptions
-description = soup.body.findAll('dd')
-function_usage = []
+    #find all regString objects in  bodyNames
+    names = self.soup.body.find_all( bodyName )
+    result = re.findall( regString , str(names) )
+    result = [item[4:] for item in result]
+    
+    return result
+  def findAll( self, name ):
+    #find all name descriptions
+    description = self.soup.body.findAll( name )
+    result = []
 
-for item in description:
-  item = item.text
-  item = item.replace('\n', ' ')
-  function_usage.append(item)
+    for item in description:
+      item = item.text
+      item = item.replace('\n', ' ')
+      result.append(item)
+    
+    return result
 
-print('list of function names:',function_names[:5])
-print('\nfunction description:', function_usage[0])
-print('\nnumber of items in function names:', len(function_names))
-print('number of items in function description:', len(function_usage))
-
-#create a dataframe
-data = pd.DataFrame({'function name': function_names, 'function usage': function_usage})
-data.head()
-
-data.to_csv('my_file.csv')
