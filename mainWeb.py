@@ -3,8 +3,8 @@ import pandas as pd
 
 webPage = importWebpage.bsObject( "https://docs.python.org/3/library/random.html"  )
 
-function_names = webPage.findRegAll( 'li', 'href="/wiki/\w+' )
-function_usage = webPage.findAll( 'li' )
+function_names = webPage.findRegAll( 'dt', 'id="random.\w+' )
+function_usage = webPage.findAll( 'dd' )
 
 print('list of function names:',function_names[:5])
 print('\nfunction description:', function_usage[0])
