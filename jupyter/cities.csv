@@ -1,880 +1,871 @@
-,0
-0,"/wiki/Wojew%C3%B3dztwo_mazowieckie"" title=""Województwo mazowieckie"
-1,"/wiki/Wojew%C3%B3dztwo_opolskie"" title=""Województwo opolskie"
-2,"/wiki/Wojew%C3%B3dztwo_podkarpackie"" title=""Województwo podkarpackie"
-3,"/wiki/Wojew%C3%B3dztwo_podlaskie"" title=""Województwo podlaskie"
-4,"/wiki/Wojew%C3%B3dztwo_pomorskie"" title=""Województwo pomorskie"
-5,"/wiki/Wojew%C3%B3dztwo_%C5%9Bl%C4%85skie"" title=""Województwo śląskie"
-6,"/wiki/Wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie"" title=""Województwo świętokrzyskie"
-7,"/wiki/Wojew%C3%B3dztwo_wielkopolskie"" title=""Województwo wielkopolskie"
-8,"/wiki/Wojew%C3%B3dztwo_zachodniopomorskie"" title=""Województwo zachodniopomorskie"
-9,"/wiki/Aleksandr%C3%B3w_Kujawski"" title=""Aleksandrów Kujawski"
-10,"/wiki/Aleksandr%C3%B3w_%C5%81%C3%B3dzki"" title=""Aleksandrów Łódzki"
-11,"/wiki/Alwernia"" title=""Alwernia"
-12,"/wiki/Andrych%C3%B3w"" title=""Andrychów"
-13,"/wiki/Annopol"" title=""Annopol"
-14,"/wiki/August%C3%B3w"" title=""Augustów"
-15,"/wiki/Babimost"" title=""Babimost"
-16,"/wiki/Babor%C3%B3w"" title=""Baborów"
-17,"/wiki/Baran%C3%B3w_Sandomierski"" title=""Baranów Sandomierski"
-18,"/wiki/Barcin"" title=""Barcin"
-19,"/wiki/Barczewo"" title=""Barczewo"
-20,"/wiki/Bardo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)"" title=""Bardo "
-21,"/wiki/Barlinek"" title=""Barlinek"
-22,"/wiki/Bartoszyce"" title=""Bartoszyce"
-23,"/wiki/Barwice"" title=""Barwice"
-24,"/wiki/Be%C5%82chat%C3%B3w"" title=""Bełchatów"
-25,"/wiki/Be%C5%82%C5%BCyce"" title=""Bełżyce"
-26,"/wiki/B%C4%99dzin"" title=""Będzin"
-27,"/wiki/Bia%C5%82a_(miasto)"" title=""Biała "
-28,"/wiki/Bia%C5%82a_Piska"" title=""Biała Piska"
-29,"/wiki/Bia%C5%82a_Podlaska"" title=""Biała Podlaska"
-30,"/wiki/Bia%C5%82a_Rawska"" title=""Biała Rawska"
-31,"/wiki/Bia%C5%82obrzegi"" title=""Białobrzegi"
-32,"/wiki/Bia%C5%82ogard"" title=""Białogard"
-33,"/wiki/Bia%C5%82y_B%C3%B3r"" title=""Biały Bór"
-34,"/wiki/Bia%C5%82ystok"" title=""Białystok"
-35,"/wiki/Biecz"" title=""Biecz"
-36,"/wiki/Bielawa"" title=""Bielawa"
-37,"/wiki/Bielsk_Podlaski"" title=""Bielsk Podlaski"
-38,"/wiki/Bieru%C5%84"" title=""Bieruń"
-39,"/wiki/Bierut%C3%B3w"" title=""Bierutów"
-40,"/wiki/Bie%C5%BCu%C5%84"" title=""Bieżuń"
-41,"/wiki/Bi%C5%82goraj"" title=""Biłgoraj"
-42,"/wiki/Biskupiec"" title=""Biskupiec"
-43,"/wiki/Bisztynek"" title=""Bisztynek"
-44,"/wiki/Blachownia"" title=""Blachownia"
-45,"/wiki/B%C5%82aszki"" title=""Błaszki"
-46,"/wiki/B%C5%82a%C5%BCowa"" title=""Błażowa"
-47,"/wiki/B%C5%82onie"" title=""Błonie"
-48,"/wiki/Bobolice"" title=""Bobolice"
-49,"/wiki/Bobowa"" title=""Bobowa"
-50,"/wiki/Bochnia"" title=""Bochnia"
-51,"/wiki/Bodzentyn"" title=""Bodzentyn"
-52,"/wiki/Bogatynia"" title=""Bogatynia"
-53,"/wiki/Boguchwa%C5%82a"" title=""Boguchwała"
-54,"/wiki/Bojanowo"" title=""Bojanowo"
-55,"/wiki/Boles%C5%82awiec"" title=""Bolesławiec"
-56,"/wiki/Bolim%C3%B3w"" title=""Bolimów"
-57,"/wiki/Bolk%C3%B3w"" title=""Bolków"
-58,"/wiki/Borek_Wielkopolski"" title=""Borek Wielkopolski"
-59,"/wiki/Borne_Sulinowo"" title=""Borne Sulinowo"
-60,"/wiki/Braniewo"" title=""Braniewo"
-61,"/wiki/Bra%C5%84sk"" title=""Brańsk"
-62,"/wiki/Brodnica"" title=""Brodnica"
-63,"/wiki/Brok"" title=""Brok"
-64,"/wiki/Brusy"" title=""Brusy"
-65,"/wiki/Brwin%C3%B3w"" title=""Brwinów"
-66,"/wiki/Brzeg_(miasto)"" title=""Brzeg "
-67,"/wiki/Brzeg_Dolny"" title=""Brzeg Dolny"
-68,"/wiki/Brzesko"" title=""Brzesko"
-69,"/wiki/Brzeszcze"" title=""Brzeszcze"
-70,"/wiki/Brze%C5%9B%C4%87_Kujawski"" title=""Brześć Kujawski"
-71,"/wiki/Brzeziny"" title=""Brzeziny"
-72,"/wiki/Brzostek"" title=""Brzostek"
-73,"/wiki/Brzoz%C3%B3w"" title=""Brzozów"
-74,"/wiki/Budzy%C5%84"" title=""Budzyń"
-75,"/wiki/Buk_(wojew%C3%B3dztwo_wielkopolskie)"" title=""Buk "
-76,"/wiki/Bukowno"" title=""Bukowno"
-77,"/wiki/Bychawa"" title=""Bychawa"
-78,"/wiki/Byczyna"" title=""Byczyna"
-79,"/wiki/Bydgoszcz"" title=""Bydgoszcz"
-80,"/wiki/Bystrzyca_K%C5%82odzka"" title=""Bystrzyca Kłodzka"
-81,"/wiki/Bytom"" title=""Bytom"
-82,"/wiki/Bytom_Odrza%C5%84ski"" title=""Bytom Odrzański"
-83,"/wiki/Byt%C3%B3w"" title=""Bytów"
-84,"/wiki/Cedynia"" title=""Cedynia"
-85,"/wiki/Ceg%C5%82%C3%B3w"" title=""Cegłów"
-86,"/wiki/Che%C5%82m"" title=""Chełm"
-87,"/wiki/Che%C5%82mek"" title=""Chełmek"
-88,"/wiki/Che%C5%82mno"" title=""Chełmno"
-89,"/wiki/Che%C5%82m%C5%BCa"" title=""Chełmża"
-90,"/wiki/Ch%C4%99ciny"" title=""Chęciny"
-91,"/wiki/Chmielnik_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)"" title=""Chmielnik "
-92,"/wiki/Chocian%C3%B3w"" title=""Chocianów"
-93,"/wiki/Chociwel"" title=""Chociwel"
-94,"/wiki/Chocz"" title=""Chocz"
-95,"/wiki/Chodecz"" title=""Chodecz"
-96,"/wiki/Chodzie%C5%BC"" title=""Chodzież"
-97,"/wiki/Chojna"" title=""Chojna"
-98,"/wiki/Chojnice"" title=""Chojnice"
-99,"/wiki/Chojn%C3%B3w"" title=""Chojnów"
-100,"/wiki/Choroszcz"" title=""Choroszcz"
-101,"/wiki/Chorzele"" title=""Chorzele"
-102,"/wiki/Chorz%C3%B3w"" title=""Chorzów"
-103,"/wiki/Choszczno"" title=""Choszczno"
-104,"/wiki/Chrzan%C3%B3w"" title=""Chrzanów"
-105,"/wiki/Ciechanowiec"" title=""Ciechanowiec"
-106,"/wiki/Ciechan%C3%B3w"" title=""Ciechanów"
-107,"/wiki/Ciechocinek"" title=""Ciechocinek"
-108,"/wiki/Cieszan%C3%B3w"" title=""Cieszanów"
-109,"/wiki/Cieszyn"" title=""Cieszyn"
-110,"/wiki/Ci%C4%99%C5%BCkowice"" title=""Ciężkowice"
-111,"/wiki/Cybinka"" title=""Cybinka"
-112,"/wiki/Czaplinek"" title=""Czaplinek"
-113,"/wiki/Czarna_Bia%C5%82ostocka"" title=""Czarna Białostocka"
-114,"/wiki/Czarna_Woda_(miasto)"" title=""Czarna Woda "
-115,"/wiki/Czarne"" title=""Czarne"
-116,"/wiki/Czarnk%C3%B3w"" title=""Czarnków"
-117,"/wiki/Czch%C3%B3w"" title=""Czchów"
-118,"/wiki/Czelad%C5%BA_(miasto)"" title=""Czeladź "
-119,"/wiki/Czempi%C5%84"" title=""Czempiń"
-120,"/wiki/Czerniejewo"" title=""Czerniejewo"
-121,"/wiki/Czersk"" title=""Czersk"
-122,"/wiki/Czerwie%C5%84sk"" title=""Czerwieńsk"
-123,"/wiki/Czerwi%C5%84sk_nad_Wis%C5%82%C4%85"" title=""Czerwińsk nad Wisłą"
-124,"/wiki/Cz%C4%99stochowa"" title=""Częstochowa"
-125,"/wiki/Cz%C5%82opa"" title=""Człopa"
-126,"/wiki/Cz%C5%82uch%C3%B3w"" title=""Człuchów"
-127,"/wiki/Czy%C5%BCew"" title=""Czyżew"
-128,"/wiki/%C4%86miel%C3%B3w"" title=""Ćmielów"
-129,"/wiki/Daleszyce"" title=""Daleszyce"
-130,"/wiki/Dar%C5%82owo"" title=""Darłowo"
-131,"/wiki/D%C4%85bie"" title=""Dąbie"
-132,"/wiki/D%C4%85browa_Bia%C5%82ostocka"" title=""Dąbrowa Białostocka"
-133,"/wiki/D%C4%85browa_G%C3%B3rnicza"" title=""Dąbrowa Górnicza"
-134,"/wiki/D%C4%85browa_Tarnowska"" title=""Dąbrowa Tarnowska"
-135,"/wiki/Debrzno"" title=""Debrzno"
-136,"/wiki/D%C4%99bica"" title=""Dębica"
-137,"/wiki/D%C4%99blin"" title=""Dęblin"
-138,"/wiki/D%C4%99bno"" title=""Dębno"
-139,"/wiki/Dobczyce"" title=""Dobczyce"
-140,"/wiki/Dobiegniew"" title=""Dobiegniew"
-141,"/wiki/Dobra_(powiat_%C5%82obeski)"" title=""Dobra "
-142,"/wiki/Dobra_(powiat_turecki)"" title=""Dobra "
-143,"/wiki/Dobre_Miasto"" title=""Dobre Miasto"
-144,"/wiki/Dobrodzie%C5%84"" title=""Dobrodzień"
-145,"/wiki/Dobrzany"" title=""Dobrzany"
-146,"/wiki/Dobrzyca"" title=""Dobrzyca"
-147,"/wiki/Dobrzy%C5%84_nad_Wis%C5%82%C4%85"" title=""Dobrzyń nad Wisłą"
-148,"/wiki/Dolsk"" title=""Dolsk"
-149,"/wiki/Drawno"" title=""Drawno"
-150,"/wiki/Drawsko_Pomorskie"" title=""Drawsko Pomorskie"
-151,"/wiki/Drezdenko"" title=""Drezdenko"
-152,"/wiki/Drobin"" title=""Drobin"
-153,"/wiki/Drohiczyn_(Polska)"" title=""Drohiczyn "
-154,"/wiki/Drzewica_(wojew%C3%B3dztwo_%C5%82%C3%B3dzkie)"" title=""Drzewica "
-155,"/wiki/Dubiecko"" title=""Dubiecko"
-156,"/wiki/Dukla"" title=""Dukla"
-157,"/wiki/Dyn%C3%B3w"" title=""Dynów"
-158,"/wiki/Dzia%C5%82dowo"" title=""Działdowo"
-159,"/wiki/Dzia%C5%82oszyce"" title=""Działoszyce"
-160,"/wiki/Dzia%C5%82oszyn"" title=""Działoszyn"
-161,"/wiki/Dzierzgo%C5%84"" title=""Dzierzgoń"
-162,"/wiki/Dzier%C5%BConi%C3%B3w"" title=""Dzierżoniów"
-163,"/wiki/Dziwn%C3%B3w"" title=""Dziwnów"
-164,"/wiki/Elbl%C4%85g"" title=""Elbląg"
-165,"/wiki/E%C5%82k"" title=""Ełk"
-166,"/wiki/Frampol"" title=""Frampol"
-167,"/wiki/Frombork"" title=""Frombork"
-168,"/wiki/Garwolin"" title=""Garwolin"
-169,"/wiki/G%C4%85bin"" title=""Gąbin"
-170,"/wiki/Gda%C5%84sk"" title=""Gdańsk"
-171,"/wiki/Gdynia"" title=""Gdynia"
-172,"/wiki/Gi%C5%BCycko"" title=""Giżycko"
-173,"/wiki/Glinojeck"" title=""Glinojeck"
-174,"/wiki/Gliwice"" title=""Gliwice"
-175,"/wiki/G%C5%82og%C3%B3w"" title=""Głogów"
-176,"/wiki/G%C5%82og%C3%B3w_Ma%C5%82opolski"" title=""Głogów Małopolski"
-177,"/wiki/G%C5%82og%C3%B3wek"" title=""Głogówek"
-178,"/wiki/G%C5%82owno"" title=""Głowno"
-179,"/wiki/G%C5%82ubczyce"" title=""Głubczyce"
-180,"/wiki/G%C5%82ucho%C5%82azy"" title=""Głuchołazy"
-181,"/wiki/G%C5%82uszyca"" title=""Głuszyca"
-182,"/wiki/Gniew_(miasto)"" title=""Gniew "
-183,"/wiki/Gniewkowo"" title=""Gniewkowo"
-184,"/wiki/Gniezno"" title=""Gniezno"
-185,"/wiki/Gogolin"" title=""Gogolin"
-186,"/wiki/Golczewo"" title=""Golczewo"
-187,"/wiki/Goleni%C3%B3w"" title=""Goleniów"
-188,"/wiki/Golina"" title=""Golina"
-189,"/wiki/Go%C5%82a%C5%84cz"" title=""Gołańcz"
-190,"/wiki/Go%C5%82dap"" title=""Gołdap"
-191,"/wiki/Goni%C4%85dz"" title=""Goniądz"
-192,"/wiki/Goraj"" title=""Goraj"
-193,"/wiki/Gorlice"" title=""Gorlice"
-194,"/wiki/Gorz%C3%B3w_%C5%9Al%C4%85ski"" title=""Gorzów Śląski"
-195,"/wiki/Gorz%C3%B3w_Wielkopolski"" title=""Gorzów Wielkopolski"
-196,"/wiki/Gostynin"" title=""Gostynin"
-197,"/wiki/Gosty%C5%84"" title=""Gostyń"
-198,"/wiki/Go%C5%9Bcino"" title=""Gościno"
-199,"/wiki/Gozdnica"" title=""Gozdnica"
-200,"/wiki/G%C3%B3ra_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)"" title=""Góra "
-201,"/wiki/G%C3%B3ra_Kalwaria"" title=""Góra Kalwaria"
-202,"/wiki/G%C3%B3rowo_I%C5%82aweckie"" title=""Górowo Iławeckie"
-203,"/wiki/G%C3%B3rzno"" title=""Górzno"
-204,"/wiki/Grab%C3%B3w_nad_Prosn%C4%85"" title=""Grabów nad Prosną"
-205,"/wiki/Grajewo"" title=""Grajewo"
-206,"/wiki/Grodk%C3%B3w"" title=""Grodków"
-207,"/wiki/Grodzisk_Mazowiecki"" title=""Grodzisk Mazowiecki"
-208,"/wiki/Grodzisk_Wielkopolski"" title=""Grodzisk Wielkopolski"
-209,"/wiki/Gr%C3%B3jec"" title=""Grójec"
-210,"/wiki/Grudzi%C4%85dz"" title=""Grudziądz"
-211,"/wiki/Gryb%C3%B3w"" title=""Grybów"
-212,"/wiki/Gryfice"" title=""Gryfice"
-213,"/wiki/Gryfino"" title=""Gryfino"
-214,"/wiki/Gryf%C3%B3w_%C5%9Al%C4%85ski"" title=""Gryfów Śląski"
-215,"/wiki/Gubin"" title=""Gubin"
-216,"/wiki/Hajn%C3%B3wka"" title=""Hajnówka"
-217,"/wiki/Halin%C3%B3w"" title=""Halinów"
-218,"/wiki/Hel_(miasto)"" title=""Hel "
-219,"/wiki/Hrubiesz%C3%B3w"" title=""Hrubieszów"
-220,"/wiki/I%C5%82awa"" title=""Iława"
-221,"/wiki/I%C5%82owa"" title=""Iłowa"
-222,"/wiki/I%C5%82%C5%BCa"" title=""Iłża"
-223,"/wiki/Imielin"" title=""Imielin"
-224,"/wiki/Inowroc%C5%82aw"" title=""Inowrocław"
-225,"/wiki/I%C5%84sko"" title=""Ińsko"
-226,"/wiki/Iwaniska"" title=""Iwaniska"
-227,"/wiki/Izbica_(miasto)"" title=""Izbica "
-228,"/wiki/Izbica_Kujawska"" title=""Izbica Kujawska"
-229,"/wiki/Jab%C5%82onowo_Pomorskie"" title=""Jabłonowo Pomorskie"
-230,"/wiki/Janikowo"" title=""Janikowo"
-231,"/wiki/Janowiec_Wielkopolski"" title=""Janowiec Wielkopolski"
-232,"/wiki/Jan%C3%B3w_Lubelski"" title=""Janów Lubelski"
-233,"/wiki/Jaraczewo"" title=""Jaraczewo"
-234,"/wiki/Jarocin"" title=""Jarocin"
-235,"/wiki/Jaros%C5%82aw_(wojew%C3%B3dztwo_podkarpackie)"" title=""Jarosław "
-236,"/wiki/Jasie%C5%84_(wojew%C3%B3dztwo_lubuskie)"" title=""Jasień "
-237,"/wiki/Jas%C5%82o"" title=""Jasło"
-238,"/wiki/Jastarnia"" title=""Jastarnia"
-239,"/wiki/Jastrowie"" title=""Jastrowie"
-240,"/wiki/Jawor_(miasto)"" title=""Jawor "
-241,"/wiki/Jaworzno"" title=""Jaworzno"
-242,"/wiki/Jaworzyna_%C5%9Al%C4%85ska"" title=""Jaworzyna Śląska"
-243,"/wiki/Jedlicze"" title=""Jedlicze"
-244,"/wiki/Jedwabne"" title=""Jedwabne"
-245,"/wiki/Jelenia_G%C3%B3ra"" title=""Jelenia Góra"
-246,"/wiki/Jeziorany"" title=""Jeziorany"
-247,"/wiki/J%C4%99drzej%C3%B3w"" title=""Jędrzejów"
-248,"/wiki/Jordan%C3%B3w"" title=""Jordanów"
-249,"/wiki/J%C3%B3zef%C3%B3w_(powiat_bi%C5%82gorajski)"" title=""Józefów "
-250,"/wiki/J%C3%B3zef%C3%B3w_(powiat_otwocki)"" title=""Józefów "
-251,"/wiki/J%C3%B3zef%C3%B3w_nad_Wis%C5%82%C4%85"" title=""Józefów nad Wisłą"
-252,"/wiki/Jutrosin"" title=""Jutrosin"
-253,"/wiki/Kaczory"" title=""Kaczory"
-254,"/wiki/Kalety"" title=""Kalety"
-255,"/wiki/Kalisz"" title=""Kalisz"
-256,"/wiki/Kalisz_Pomorski"" title=""Kalisz Pomorski"
-257,"/wiki/Kalwaria_Zebrzydowska"" title=""Kalwaria Zebrzydowska"
-258,"/wiki/Ka%C5%82uszyn"" title=""Kałuszyn"
-259,"/wiki/Kamieniec_Z%C4%85bkowicki"" title=""Kamieniec Ząbkowicki"
-260,"/wiki/Kamienna_G%C3%B3ra"" title=""Kamienna Góra"
-261,"/wiki/Kamie%C5%84_Kraje%C5%84ski"" title=""Kamień Krajeński"
-262,"/wiki/Kamie%C5%84_Pomorski"" title=""Kamień Pomorski"
-263,"/wiki/Kamie%C5%84sk"" title=""Kamieńsk"
-264,"/wiki/Kamionka_(powiat_lubartowski)"" title=""Kamionka "
-265,"/wiki/Ka%C5%84czuga"" title=""Kańczuga"
-266,"/wiki/Karczew"" title=""Karczew"
-267,"/wiki/Kargowa"" title=""Kargowa"
-268,"/wiki/Karlino"" title=""Karlino"
-269,"/wiki/Karpacz"" title=""Karpacz"
-270,"/wiki/Kartuzy"" title=""Kartuzy"
-271,"/wiki/Katowice"" title=""Katowice"
-272,"/wiki/Kazimierz_Dolny"" title=""Kazimierz Dolny"
-273,"/wiki/Kazimierza_Wielka"" title=""Kazimierza Wielka"
-274,"/wiki/K%C4%85ty_Wroc%C5%82awskie"" title=""Kąty Wrocławskie"
-275,"/wiki/Kcynia"" title=""Kcynia"
-276,"/wiki/K%C4%99pice"" title=""Kępice"
-277,"/wiki/K%C4%99pno"" title=""Kępno"
-278,"/wiki/K%C4%99trzyn"" title=""Kętrzyn"
-279,"/wiki/K%C4%99ty"" title=""Kęty"
-280,"/wiki/Kielce"" title=""Kielce"
-281,"/wiki/Kietrz"" title=""Kietrz"
-282,"/wiki/Kisielice"" title=""Kisielice"
-283,"/wiki/Kleczew"" title=""Kleczew"
-284,"/wiki/Kleszczele"" title=""Kleszczele"
-285,"/wiki/Klimont%C3%B3w"" title=""Klimontów"
-286,"/wiki/Kluczbork"" title=""Kluczbork"
-287,"/wiki/K%C5%82ecko"" title=""Kłecko"
-288,"/wiki/K%C5%82obuck"" title=""Kłobuck"
-289,"/wiki/K%C5%82odawa"" title=""Kłodawa"
-290,"/wiki/K%C5%82odzko"" title=""Kłodzko"
-291,"/wiki/Knur%C3%B3w"" title=""Knurów"
-292,"/wiki/Knyszyn"" title=""Knyszyn"
-293,"/wiki/Kobylin"" title=""Kobylin"
-294,"/wiki/Koby%C5%82ka"" title=""Kobyłka"
-295,"/wiki/Kock"" title=""Kock"
-296,"/wiki/Kolbuszowa"" title=""Kolbuszowa"
-297,"/wiki/Kolno"" title=""Kolno"
-298,"/wiki/Kolonowskie"" title=""Kolonowskie"
-299,"/wiki/Koluszki"" title=""Koluszki"
-300,"/wiki/Ko%C5%82aczyce"" title=""Kołaczyce"
-301,"/wiki/Ko%C5%82o_(miasto)"" title=""Koło "
-302,"/wiki/Ko%C5%82obrzeg"" title=""Kołobrzeg"
-303,"/wiki/Koniecpol"" title=""Koniecpol"
-304,"/wiki/Konin"" title=""Konin"
-305,"/wiki/Konstantyn%C3%B3w_%C5%81%C3%B3dzki"" title=""Konstantynów Łódzki"
-306,"/wiki/Ko%C5%84skie"" title=""Końskie"
-307,"/wiki/Koprzywnica"" title=""Koprzywnica"
-308,"/wiki/Korfant%C3%B3w"" title=""Korfantów"
-309,"/wiki/Koronowo"" title=""Koronowo"
-310,"/wiki/Korsze"" title=""Korsze"
-311,"/wiki/Kos%C3%B3w_Lacki"" title=""Kosów Lacki"
-312,"/wiki/Kostrzyn"" title=""Kostrzyn"
-313,"/wiki/Kostrzyn_nad_Odr%C4%85"" title=""Kostrzyn nad Odrą"
-314,"/wiki/Koszalin"" title=""Koszalin"
-315,"/wiki/Koszyce_(wojew%C3%B3dztwo_ma%C5%82opolskie)"" title=""Koszyce "
-316,"/wiki/Ko%C5%9Bcian"" title=""Kościan"
-317,"/wiki/Ko%C5%9Bcierzyna"" title=""Kościerzyna"
-318,"/wiki/Kowal_(miasto)"" title=""Kowal "
-319,"/wiki/Kowalewo_Pomorskie"" title=""Kowalewo Pomorskie"
-320,"/wiki/Kowary"" title=""Kowary"
-321,"/wiki/Kozieg%C5%82owy_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)"" title=""Koziegłowy "
-322,"/wiki/Kozienice"" title=""Kozienice"
-323,"/wiki/Ko%C5%BAmin_Wielkopolski"" title=""Koźmin Wielkopolski"
-324,"/wiki/Ko%C5%BAminek"" title=""Koźminek"
-325,"/wiki/Ko%C5%BCuch%C3%B3w"" title=""Kożuchów"
-326,"/wiki/K%C3%B3rnik"" title=""Kórnik"
-327,"/wiki/Krajenka"" title=""Krajenka"
-328,"/wiki/Krak%C3%B3w"" title=""Kraków"
-329,"/wiki/Krapkowice"" title=""Krapkowice"
-330,"/wiki/Krasnobr%C3%B3d"" title=""Krasnobród"
-331,"/wiki/Krasnystaw"" title=""Krasnystaw"
-332,"/wiki/Kra%C5%9Bnik"" title=""Kraśnik"
-333,"/wiki/Krobia"" title=""Krobia"
-334,"/wiki/Krosno"" title=""Krosno"
-335,"/wiki/Krosno_Odrza%C5%84skie"" title=""Krosno Odrzańskie"
-336,"/wiki/Kro%C5%9Bniewice"" title=""Krośniewice"
-337,"/wiki/Krotoszyn"" title=""Krotoszyn"
-338,"/wiki/Kruszwica"" title=""Kruszwica"
-339,"/wiki/Krynica_Morska"" title=""Krynica Morska"
-340,"/wiki/Krynki"" title=""Krynki"
-341,"/wiki/Krzanowice"" title=""Krzanowice"
-342,"/wiki/Krzepice"" title=""Krzepice"
-343,"/wiki/Krzeszowice"" title=""Krzeszowice"
-344,"/wiki/Krzywi%C5%84"" title=""Krzywiń"
-345,"/wiki/Krzy%C5%BC_Wielkopolski"" title=""Krzyż Wielkopolski"
-346,"/wiki/Ksi%C4%85%C5%BC_Wielkopolski"" title=""Książ Wielkopolski"
-347,"/wiki/Kun%C3%B3w"" title=""Kunów"
-348,"/wiki/Kutno"" title=""Kutno"
-349,"/wiki/Ku%C5%BAnia_Raciborska"" title=""Kuźnia Raciborska"
-350,"/wiki/Kwidzyn"" title=""Kwidzyn"
-351,"/wiki/Legionowo"" title=""Legionowo"
-352,"/wiki/Legnica"" title=""Legnica"
-353,"/wiki/Lesko"" title=""Lesko"
-354,"/wiki/Leszno"" title=""Leszno"
-355,"/wiki/Le%C5%9Bna"" title=""Leśna"
-356,"/wiki/Le%C5%9Bnica_(wojew%C3%B3dztwo_opolskie)"" title=""Leśnica "
-357,"/wiki/Lewin_Brzeski"" title=""Lewin Brzeski"
-358,"/wiki/Le%C5%BCajsk"" title=""Leżajsk"
-359,"/wiki/L%C4%99bork"" title=""Lębork"
-360,"/wiki/L%C4%99dziny"" title=""Lędziny"
-361,"/wiki/Libi%C4%85%C5%BC"" title=""Libiąż"
-362,"/wiki/Lidzbark"" title=""Lidzbark"
-363,"/wiki/Lidzbark_Warmi%C5%84ski"" title=""Lidzbark Warmiński"
-364,"/wiki/Limanowa"" title=""Limanowa"
-365,"/wiki/Lipiany"" title=""Lipiany"
-366,"/wiki/Lipno"" title=""Lipno"
-367,"/wiki/Lipsk_(Polska)"" title=""Lipsk "
-368,"/wiki/Lipsko"" title=""Lipsko"
-369,"/wiki/Lubacz%C3%B3w"" title=""Lubaczów"
-370,"/wiki/Luba%C5%84_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)"" title=""Lubań "
-371,"/wiki/Lubart%C3%B3w"" title=""Lubartów"
-372,"/wiki/Lubawa"" title=""Lubawa"
-373,"/wiki/Lubawka"" title=""Lubawka"
-374,"/wiki/Lubie%C5%84_Kujawski"" title=""Lubień Kujawski"
-375,"/wiki/Lubin"" title=""Lubin"
-376,"/wiki/Lublin"" title=""Lublin"
-377,"/wiki/Lubliniec"" title=""Lubliniec"
-378,"/wiki/Lubniewice"" title=""Lubniewice"
-379,"/wiki/Lubomierz"" title=""Lubomierz"
-380,"/wiki/Lubo%C5%84"" title=""Luboń"
-381,"/wiki/Lubowidz"" title=""Lubowidz"
-382,"/wiki/Lubraniec"" title=""Lubraniec"
-383,"/wiki/Lubsko"" title=""Lubsko"
-384,"/wiki/Lubycza_Kr%C3%B3lewska"" title=""Lubycza Królewska"
-385,"/wiki/Lutomiersk"" title=""Lutomiersk"
-386,"/wiki/Lutut%C3%B3w"" title=""Lututów"
-387,"/wiki/Lw%C3%B3wek"" title=""Lwówek"
-388,"/wiki/Lw%C3%B3wek_%C5%9Al%C4%85ski"" title=""Lwówek Śląski"
-389,"/wiki/%C5%81abiszyn"" title=""Łabiszyn"
-390,"/wiki/%C5%81ag%C3%B3w"" title=""Łagów"
-391,"/wiki/%C5%81a%C5%84cut"" title=""Łańcut"
-392,"/wiki/%C5%81apy"" title=""Łapy"
-393,"/wiki/%C5%81asin"" title=""Łasin"
-394,"/wiki/%C5%81ask"" title=""Łask"
-395,"/wiki/%C5%81askarzew"" title=""Łaskarzew"
-396,"/wiki/%C5%81aszcz%C3%B3w"" title=""Łaszczów"
-397,"/wiki/%C5%81aziska_G%C3%B3rne"" title=""Łaziska Górne"
-398,"/wiki/%C5%81azy"" title=""Łazy"
-399,"/wiki/%C5%81eba"" title=""Łeba"
-400,"/wiki/%C5%81%C4%99czna"" title=""Łęczna"
-401,"/wiki/%C5%81%C4%99czyca"" title=""Łęczyca"
-402,"/wiki/%C5%81%C4%99knica"" title=""Łęknica"
-403,"/wiki/%C5%81obez"" title=""Łobez"
-404,"/wiki/%C5%81ob%C5%BCenica"" title=""Łobżenica"
-405,"/wiki/%C5%81och%C3%B3w"" title=""Łochów"
-406,"/wiki/%C5%81omianki"" title=""Łomianki"
-407,"/wiki/%C5%81om%C5%BCa"" title=""Łomża"
-408,"/wiki/%C5%81osice"" title=""Łosice"
-409,"/wiki/%C5%81owicz"" title=""Łowicz"
-410,"/wiki/%C5%81%C3%B3d%C5%BA"" title=""Łódź"
-411,"/wiki/%C5%81uk%C3%B3w"" title=""Łuków"
-412,"/wiki/Mak%C3%B3w_Mazowiecki"" title=""Maków Mazowiecki"
-413,"/wiki/Mak%C3%B3w_Podhala%C5%84ski"" title=""Maków Podhalański"
-414,"/wiki/Malbork"" title=""Malbork"
-415,"/wiki/Ma%C5%82ogoszcz"" title=""Małogoszcz"
-416,"/wiki/Ma%C5%82omice"" title=""Małomice"
-417,"/wiki/Margonin"" title=""Margonin"
-418,"/wiki/Marki"" title=""Marki"
-419,"/wiki/Maszewo"" title=""Maszewo"
-420,"/wiki/Miasteczko_%C5%9Al%C4%85skie"" title=""Miasteczko Śląskie"
-421,"/wiki/Miastko"" title=""Miastko"
-422,"/wiki/Micha%C5%82owo"" title=""Michałowo"
-423,"/wiki/Miech%C3%B3w"" title=""Miechów"
-424,"/wiki/Miejska_G%C3%B3rka"" title=""Miejska Górka"
-425,"/wiki/Mielec"" title=""Mielec"
-426,"/wiki/Mielno"" title=""Mielno"
-427,"/wiki/Mierosz%C3%B3w"" title=""Mieroszów"
-428,"/wiki/Mieszkowice"" title=""Mieszkowice"
-429,"/wiki/Mi%C4%99dzyb%C3%B3rz"" title=""Międzybórz"
-430,"/wiki/Mi%C4%99dzych%C3%B3d"" title=""Międzychód"
-431,"/wiki/Mi%C4%99dzylesie"" title=""Międzylesie"
-432,"/wiki/Mi%C4%99dzyrzec_Podlaski"" title=""Międzyrzec Podlaski"
-433,"/wiki/Mi%C4%99dzyrzecz"" title=""Międzyrzecz"
-434,"/wiki/Mi%C4%99dzyzdroje"" title=""Międzyzdroje"
-435,"/wiki/Miko%C5%82ajki"" title=""Mikołajki"
-436,"/wiki/Miko%C5%82%C3%B3w"" title=""Mikołów"
-437,"/wiki/Mikstat"" title=""Mikstat"
-438,"/wiki/Milan%C3%B3wek"" title=""Milanówek"
-439,"/wiki/Milicz"" title=""Milicz"
-440,"/wiki/Mi%C5%82akowo"" title=""Miłakowo"
-441,"/wiki/Mi%C5%82om%C5%82yn"" title=""Miłomłyn"
-442,"/wiki/Mi%C5%82os%C5%82aw"" title=""Miłosław"
-443,"/wiki/Mi%C5%84sk_Mazowiecki"" title=""Mińsk Mazowiecki"
-444,"/wiki/Miros%C5%82awiec"" title=""Mirosławiec"
-445,"/wiki/Mirsk"" title=""Mirsk"
-446,"/wiki/M%C5%82awa"" title=""Mława"
-447,"/wiki/M%C5%82ynary"" title=""Młynary"
-448,"/wiki/Modliborzyce"" title=""Modliborzyce"
-449,"/wiki/Mogielnica"" title=""Mogielnica"
-450,"/wiki/Mogilno"" title=""Mogilno"
-451,"/wiki/Mo%C5%84ki"" title=""Mońki"
-452,"/wiki/Morawica"" title=""Morawica"
-453,"/wiki/Mor%C4%85g"" title=""Morąg"
-454,"/wiki/Mordy"" title=""Mordy"
-455,"/wiki/Mory%C5%84"" title=""Moryń"
-456,"/wiki/Mosina"" title=""Mosina"
-457,"/wiki/Mr%C4%85gowo"" title=""Mrągowo"
-458,"/wiki/Mrocza"" title=""Mrocza"
-459,"/wiki/Mrozy"" title=""Mrozy"
-460,"/wiki/Mszana_Dolna"" title=""Mszana Dolna"
-461,"/wiki/Mszczon%C3%B3w"" title=""Mszczonów"
-462,"/wiki/Murowana_Go%C5%9Blina"" title=""Murowana Goślina"
-463,"/wiki/Muszyna"" title=""Muszyna"
-464,"/wiki/Mys%C5%82owice"" title=""Mysłowice"
-465,"/wiki/Myszk%C3%B3w"" title=""Myszków"
-466,"/wiki/Myszyniec"" title=""Myszyniec"
-467,"/wiki/My%C5%9Blenice"" title=""Myślenice"
-468,"/wiki/My%C5%9Blib%C3%B3rz"" title=""Myślibórz"
-469,"/wiki/Nak%C5%82o_nad_Noteci%C4%85"" title=""Nakło nad Notecią"
-470,"/wiki/Na%C5%82%C4%99cz%C3%B3w"" title=""Nałęczów"
-471,"/wiki/Namys%C5%82%C3%B3w"" title=""Namysłów"
-472,"/wiki/Narol"" title=""Narol"
-473,"/wiki/Nasielsk"" title=""Nasielsk"
-474,"/wiki/Nekla"" title=""Nekla"
-475,"/wiki/Nidzica"" title=""Nidzica"
-476,"/wiki/Niemcza"" title=""Niemcza"
-477,"/wiki/Niemodlin"" title=""Niemodlin"
-478,"/wiki/Niepo%C5%82omice"" title=""Niepołomice"
-479,"/wiki/Nieszawa"" title=""Nieszawa"
-480,"/wiki/Nisko"" title=""Nisko"
-481,"/wiki/Nowa_D%C4%99ba"" title=""Nowa Dęba"
-482,"/wiki/Nowa_Ruda"" title=""Nowa Ruda"
-483,"/wiki/Nowa_Sarzyna"" title=""Nowa Sarzyna"
-484,"/wiki/Nowa_S%C5%82upia"" title=""Nowa Słupia"
-485,"/wiki/Nowa_S%C3%B3l"" title=""Nowa Sól"
-486,"/wiki/Nowe"" title=""Nowe"
-487,"/wiki/Nowe_Brzesko"" title=""Nowe Brzesko"
-488,"/wiki/Nowe_Miasteczko"" title=""Nowe Miasteczko"
-489,"/wiki/Nowe_Miasto_(powiat_p%C5%82o%C5%84ski)"" title=""Nowe Miasto "
-490,"/wiki/Nowe_Miasto_Lubawskie"" title=""Nowe Miasto Lubawskie"
-491,"/wiki/Nowe_Miasto_nad_Pilic%C4%85"" title=""Nowe Miasto nad Pilicą"
-492,"/wiki/Nowe_Skalmierzyce"" title=""Nowe Skalmierzyce"
-493,"/wiki/Nowe_Warpno"" title=""Nowe Warpno"
-494,"/wiki/Nowogard"" title=""Nowogard"
-495,"/wiki/Nowogrodziec"" title=""Nowogrodziec"
-496,"/wiki/Nowogr%C3%B3d"" title=""Nowogród"
-497,"/wiki/Nowogr%C3%B3d_Bobrza%C5%84ski"" title=""Nowogród Bobrzański"
-498,"/wiki/Nowy_Dw%C3%B3r_Gda%C5%84ski"" title=""Nowy Dwór Gdański"
-499,"/wiki/Nowy_Dw%C3%B3r_Mazowiecki"" title=""Nowy Dwór Mazowiecki"
-500,"/wiki/Nowy_Korczyn"" title=""Nowy Korczyn"
-501,"/wiki/Nowy_S%C4%85cz"" title=""Nowy Sącz"
-502,"/wiki/Nowy_Staw"" title=""Nowy Staw"
-503,"/wiki/Nowy_Targ"" title=""Nowy Targ"
-504,"/wiki/Nowy_Tomy%C5%9Bl"" title=""Nowy Tomyśl"
-505,"/wiki/Nowy_Wi%C5%9Bnicz"" title=""Nowy Wiśnicz"
-506,"/wiki/Nysa"" title=""Nysa"
-507,"/wiki/Oborniki"" title=""Oborniki"
-508,"/wiki/Oborniki_%C5%9Al%C4%85skie"" title=""Oborniki Śląskie"
-509,"/wiki/Obrzycko"" title=""Obrzycko"
-510,"/wiki/Odolan%C3%B3w"" title=""Odolanów"
-511,"/wiki/Ogrodzieniec"" title=""Ogrodzieniec"
-512,"/wiki/Okonek"" title=""Okonek"
-513,"/wiki/Olecko"" title=""Olecko"
-514,"/wiki/Olesno"" title=""Olesno"
-515,"/wiki/Oleszyce"" title=""Oleszyce"
-516,"/wiki/Ole%C5%9Bnica"" title=""Oleśnica"
-517,"/wiki/Ole%C5%9Bnica_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)"" title=""Oleśnica "
-518,"/wiki/Olkusz"" title=""Olkusz"
-519,"/wiki/Olsztyn_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)"" title=""Olsztyn "
-520,"/wiki/Olsztyn"" title=""Olsztyn"
-521,"/wiki/Olsztynek"" title=""Olsztynek"
-522,"/wiki/Olszyna"" title=""Olszyna"
-523,"/wiki/O%C5%82awa"" title=""Oława"
-524,"/wiki/Opalenica"" title=""Opalenica"
-525,"/wiki/Opatowiec"" title=""Opatowiec"
-526,"/wiki/Opat%C3%B3w"" title=""Opatów"
-527,"/wiki/Opat%C3%B3wek"" title=""Opatówek"
-528,"/wiki/Opoczno"" title=""Opoczno"
-529,"/wiki/Opole"" title=""Opole"
-530,"/wiki/Opole_Lubelskie"" title=""Opole Lubelskie"
-531,"/wiki/Orneta"" title=""Orneta"
-532,"/wiki/Orzesze"" title=""Orzesze"
-533,"/wiki/Orzysz"" title=""Orzysz"
-534,"/wiki/Osieczna"" title=""Osieczna"
-535,"/wiki/Osiek_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)"" title=""Osiek "
-536,"/wiki/Ostro%C5%82%C4%99ka"" title=""Ostrołęka"
-537,"/wiki/Ostror%C3%B3g"" title=""Ostroróg"
-538,"/wiki/Ostrowiec_%C5%9Awi%C4%99tokrzyski"" title=""Ostrowiec Świętokrzyski"
-539,"/wiki/Ostr%C3%B3da"" title=""Ostróda"
-540,"/wiki/Ostr%C3%B3w_Lubelski"" title=""Ostrów Lubelski"
-541,"/wiki/Ostr%C3%B3w_Mazowiecka"" title=""Ostrów Mazowiecka"
-542,"/wiki/Ostr%C3%B3w_Wielkopolski"" title=""Ostrów Wielkopolski"
-543,"/wiki/Ostrzesz%C3%B3w"" title=""Ostrzeszów"
-544,"/wiki/O%C5%9Bno_Lubuskie"" title=""Ośno Lubuskie"
-545,"/wiki/O%C5%9Bwi%C4%99cim"" title=""Oświęcim"
-546,"/wiki/Otmuch%C3%B3w"" title=""Otmuchów"
-547,"/wiki/Otwock"" title=""Otwock"
-548,"/wiki/Oty%C5%84"" title=""Otyń"
-549,"/wiki/Ozimek"" title=""Ozimek"
-550,"/wiki/Ozork%C3%B3w"" title=""Ozorków"
-551,"/wiki/O%C5%BCar%C3%B3w"" title=""Ożarów"
-552,"/wiki/O%C5%BCar%C3%B3w_Mazowiecki"" title=""Ożarów Mazowiecki"
-553,"/wiki/Pabianice"" title=""Pabianice"
-554,"/wiki/Pacan%C3%B3w"" title=""Pacanów"
-555,"/wiki/Paczk%C3%B3w"" title=""Paczków"
-556,"/wiki/Paj%C4%99czno"" title=""Pajęczno"
-557,"/wiki/Pako%C5%9B%C4%87"" title=""Pakość"
-558,"/wiki/Parczew"" title=""Parczew"
-559,"/wiki/Pas%C5%82%C4%99k"" title=""Pasłęk"
-560,"/wiki/Pasym"" title=""Pasym"
-561,"/wiki/Pelplin"" title=""Pelplin"
-562,"/wiki/Pe%C5%82czyce"" title=""Pełczyce"
-563,"/wiki/Piaseczno"" title=""Piaseczno"
-564,"/wiki/Piaski_(powiat_%C5%9Bwidnicki)"" title=""Piaski "
-565,"/wiki/Piast%C3%B3w"" title=""Piastów"
-566,"/wiki/Pi%C4%85tek_(miasto)"" title=""Piątek "
-567,"/wiki/Piechowice"" title=""Piechowice"
-568,"/wiki/Piekary_%C5%9Al%C4%85skie"" title=""Piekary Śląskie"
-569,"/wiki/Pieni%C4%99%C5%BCno"" title=""Pieniężno"
-570,"/wiki/Pie%C5%84sk"" title=""Pieńsk"
-571,"/wiki/Pierzchnica"" title=""Pierzchnica"
-572,"/wiki/Pieszyce"" title=""Pieszyce"
-573,"/wiki/Pilawa_(powiat_garwoli%C5%84ski)"" title=""Pilawa "
-574,"/wiki/Pilica_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)"" title=""Pilica "
-575,"/wiki/Pilzno_(Polska)"" title=""Pilzno "
-576,"/wiki/Pi%C5%82a_(miasto)"" title=""Piła "
-577,"/wiki/Pi%C5%82awa_G%C3%B3rna"" title=""Piława Górna"
-578,"/wiki/Pi%C5%84cz%C3%B3w"" title=""Pińczów"
-579,"/wiki/Pionki"" title=""Pionki"
-580,"/wiki/Piotrk%C3%B3w_Kujawski"" title=""Piotrków Kujawski"
-581,"/wiki/Piotrk%C3%B3w_Trybunalski"" title=""Piotrków Trybunalski"
-582,"/wiki/Pisz"" title=""Pisz"
-583,"/wiki/Pleszew"" title=""Pleszew"
-584,"/wiki/P%C5%82ock"" title=""Płock"
-585,"/wiki/P%C5%82o%C5%84sk"" title=""Płońsk"
-586,"/wiki/P%C5%82oty"" title=""Płoty"
-587,"/wiki/Pniewy"" title=""Pniewy"
-588,"/wiki/Pobiedziska"" title=""Pobiedziska"
-589,"/wiki/Podd%C4%99bice"" title=""Poddębice"
-590,"/wiki/Podkowa_Le%C5%9Bna"" title=""Podkowa Leśna"
-591,"/wiki/Pogorzela"" title=""Pogorzela"
-592,"/wiki/Polan%C3%B3w"" title=""Polanów"
-593,"/wiki/Police"" title=""Police"
-594,"/wiki/Polkowice"" title=""Polkowice"
-595,"/wiki/Po%C5%82aniec"" title=""Połaniec"
-596,"/wiki/Poniatowa"" title=""Poniatowa"
-597,"/wiki/Poniec"" title=""Poniec"
-598,"/wiki/Por%C4%99ba"" title=""Poręba"
-599,"/wiki/Pozna%C5%84"" title=""Poznań"
-600,"/wiki/Prabuty"" title=""Prabuty"
-601,"/wiki/Praszka"" title=""Praszka"
-602,"/wiki/Prochowice"" title=""Prochowice"
-603,"/wiki/Proszowice"" title=""Proszowice"
-604,"/wiki/Pr%C3%B3szk%C3%B3w"" title=""Prószków"
-605,"/wiki/Pruchnik"" title=""Pruchnik"
-606,"/wiki/Prudnik"" title=""Prudnik"
-607,"/wiki/Prusice"" title=""Prusice"
-608,"/wiki/Pruszcz_(powiat_%C5%9Bwiecki)"" title=""Pruszcz "
-609,"/wiki/Pruszcz_Gda%C5%84ski"" title=""Pruszcz Gdański"
-610,"/wiki/Pruszk%C3%B3w"" title=""Pruszków"
-611,"/wiki/Przasnysz"" title=""Przasnysz"
-612,"/wiki/Przec%C5%82aw"" title=""Przecław"
-613,"/wiki/Przedb%C3%B3rz"" title=""Przedbórz"
-614,"/wiki/Przedecz"" title=""Przedecz"
-615,"/wiki/Przemk%C3%B3w"" title=""Przemków"
-616,"/wiki/Przemy%C5%9Bl"" title=""Przemyśl"
-617,"/wiki/Przeworsk"" title=""Przeworsk"
-618,"/wiki/Przysucha"" title=""Przysucha"
-619,"/wiki/Pszczyna"" title=""Pszczyna"
-620,"/wiki/Psz%C3%B3w"" title=""Pszów"
-621,"/wiki/Puck"" title=""Puck"
-622,"/wiki/Pu%C5%82awy"" title=""Puławy"
-623,"/wiki/Pu%C5%82tusk"" title=""Pułtusk"
-624,"/wiki/Puszczykowo"" title=""Puszczykowo"
-625,"/wiki/Pyrzyce"" title=""Pyrzyce"
-626,"/wiki/Pyskowice"" title=""Pyskowice"
-627,"/wiki/Pyzdry"" title=""Pyzdry"
-628,"/wiki/Raci%C4%85%C5%BC"" title=""Raciąż"
-629,"/wiki/Racib%C3%B3rz"" title=""Racibórz"
-630,"/wiki/Radk%C3%B3w"" title=""Radków"
-631,"/wiki/Radlin"" title=""Radlin"
-632,"/wiki/Rad%C5%82%C3%B3w"" title=""Radłów"
-633,"/wiki/Radom"" title=""Radom"
-634,"/wiki/Radomsko"" title=""Radomsko"
-635,"/wiki/Radomy%C5%9Bl_Wielki"" title=""Radomyśl Wielki"
-636,"/wiki/Radoszyce"" title=""Radoszyce"
-637,"/wiki/Radymno"" title=""Radymno"
-638,"/wiki/Radziej%C3%B3w"" title=""Radziejów"
-639,"/wiki/Radzionk%C3%B3w"" title=""Radzionków"
-640,"/wiki/Radzymin"" title=""Radzymin"
-641,"/wiki/Radzy%C5%84_Che%C5%82mi%C5%84ski"" title=""Radzyń Chełmiński"
-642,"/wiki/Radzy%C5%84_Podlaski"" title=""Radzyń Podlaski"
-643,"/wiki/Rajgr%C3%B3d"" title=""Rajgród"
-644,"/wiki/Rakoniewice"" title=""Rakoniewice"
-645,"/wiki/Raszk%C3%B3w"" title=""Raszków"
-646,"/wiki/Rawa_Mazowiecka"" title=""Rawa Mazowiecka"
-647,"/wiki/Rawicz"" title=""Rawicz"
-648,"/wiki/Recz"" title=""Recz"
-649,"/wiki/Reda_(miasto)"" title=""Reda "
-650,"/wiki/Rejowiec"" title=""Rejowiec"
-651,"/wiki/Rejowiec_Fabryczny"" title=""Rejowiec Fabryczny"
-652,"/wiki/Resko"" title=""Resko"
-653,"/wiki/Reszel"" title=""Reszel"
-654,"/wiki/Rogo%C5%BAno"" title=""Rogoźno"
-655,"/wiki/Ropczyce"" title=""Ropczyce"
-656,"/wiki/R%C3%B3%C5%BCan"" title=""Różan"
-657,"/wiki/Ruda_%C5%9Al%C4%85ska"" title=""Ruda Śląska"
-658,"/wiki/Rudnik_nad_Sanem"" title=""Rudnik nad Sanem"
-659,"/wiki/Rumia"" title=""Rumia"
-660,"/wiki/Rybnik"" title=""Rybnik"
-661,"/wiki/Rychwa%C5%82"" title=""Rychwał"
-662,"/wiki/Rydu%C5%82towy"" title=""Rydułtowy"
-663,"/wiki/Rydzyna"" title=""Rydzyna"
-664,"/wiki/Ryglice"" title=""Ryglice"
-665,"/wiki/Ryki"" title=""Ryki"
-666,"/wiki/Ryman%C3%B3w"" title=""Rymanów"
-667,"/wiki/Ryn"" title=""Ryn"
-668,"/wiki/Rypin"" title=""Rypin"
-669,"/wiki/Rzepin"" title=""Rzepin"
-670,"/wiki/Rzesz%C3%B3w"" title=""Rzeszów"
-671,"/wiki/Rzg%C3%B3w"" title=""Rzgów"
-672,"/wiki/Sandomierz"" title=""Sandomierz"
-673,"/wiki/Sanniki"" title=""Sanniki"
-674,"/wiki/Sanok"" title=""Sanok"
-675,"/wiki/Sejny"" title=""Sejny"
-676,"/wiki/Serock"" title=""Serock"
-677,"/wiki/S%C4%99dzisz%C3%B3w"" title=""Sędziszów"
-678,"/wiki/S%C4%99dzisz%C3%B3w_Ma%C5%82opolski"" title=""Sędziszów Małopolski"
-679,"/wiki/S%C4%99popol"" title=""Sępopol"
-680,"/wiki/S%C4%99p%C3%B3lno_Kraje%C5%84skie"" title=""Sępólno Krajeńskie"
-681,"/wiki/Sian%C3%B3w"" title=""Sianów"
-682,"/wiki/Siechnice"" title=""Siechnice"
-683,"/wiki/Siedlce"" title=""Siedlce"
-684,"/wiki/Siedliszcze"" title=""Siedliszcze"
-685,"/wiki/Siemianowice_%C5%9Al%C4%85skie"" title=""Siemianowice Śląskie"
-686,"/wiki/Siemiatycze"" title=""Siemiatycze"
-687,"/wiki/Sieniawa"" title=""Sieniawa"
-688,"/wiki/Sieradz"" title=""Sieradz"
-689,"/wiki/Sierak%C3%B3w"" title=""Sieraków"
-690,"/wiki/Sierpc"" title=""Sierpc"
-691,"/wiki/Siewierz"" title=""Siewierz"
-692,"/wiki/Skalbmierz"" title=""Skalbmierz"
-693,"/wiki/Ska%C5%82a_(wojew%C3%B3dztwo_ma%C5%82opolskie)"" title=""Skała "
-694,"/wiki/Skarszewy"" title=""Skarszewy"
-695,"/wiki/Skaryszew"" title=""Skaryszew"
-696,"/wiki/Skawina"" title=""Skawina"
-697,"/wiki/Sk%C4%99pe"" title=""Skępe"
-698,"/wiki/Skierniewice"" title=""Skierniewice"
-699,"/wiki/Skocz%C3%B3w"" title=""Skoczów"
-700,"/wiki/Skoki_(powiat_w%C4%85growiecki)"" title=""Skoki "
-701,"/wiki/Sk%C3%B3rcz"" title=""Skórcz"
-702,"/wiki/Skwierzyna"" title=""Skwierzyna"
-703,"/wiki/S%C5%82awa_(miasto)"" title=""Sława "
-704,"/wiki/S%C5%82awk%C3%B3w_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)"" title=""Sławków "
-705,"/wiki/S%C5%82awno"" title=""Sławno"
-706,"/wiki/S%C5%82omniki"" title=""Słomniki"
-707,"/wiki/S%C5%82ubice"" title=""Słubice"
-708,"/wiki/S%C5%82upca"" title=""Słupca"
-709,"/wiki/S%C5%82upsk"" title=""Słupsk"
-710,"/wiki/Sob%C3%B3tka_(powiat_wroc%C5%82awski)"" title=""Sobótka "
-711,"/wiki/Sochaczew"" title=""Sochaczew"
-712,"/wiki/Sochocin"" title=""Sochocin"
-713,"/wiki/Soko%C5%82%C3%B3w_Ma%C5%82opolski"" title=""Sokołów Małopolski"
-714,"/wiki/Soko%C5%82%C3%B3w_Podlaski"" title=""Sokołów Podlaski"
-715,"/wiki/Sok%C3%B3%C5%82ka"" title=""Sokółka"
-716,"/wiki/Solec_Kujawski"" title=""Solec Kujawski"
-717,"/wiki/Solec_nad_Wis%C5%82%C4%85"" title=""Solec nad Wisłą"
-718,"/wiki/Sompolno"" title=""Sompolno"
-719,"/wiki/Sopot"" title=""Sopot"
-720,"/wiki/Sosnowiec"" title=""Sosnowiec"
-721,"/wiki/So%C5%9Bnicowice"" title=""Sośnicowice"
-722,"/wiki/Stalowa_Wola"" title=""Stalowa Wola"
-723,"/wiki/Starachowice"" title=""Starachowice"
-724,"/wiki/Stargard"" title=""Stargard"
-725,"/wiki/Starogard_Gda%C5%84ski"" title=""Starogard Gdański"
-726,"/wiki/Stary_S%C4%85cz"" title=""Stary Sącz"
-727,"/wiki/Stasz%C3%B3w"" title=""Staszów"
-728,"/wiki/Stawiski"" title=""Stawiski"
-729,"/wiki/Stawiszyn"" title=""Stawiszyn"
-730,"/wiki/St%C4%85pork%C3%B3w"" title=""Stąporków"
-731,"/wiki/Stepnica"" title=""Stepnica"
-732,"/wiki/St%C4%99szew"" title=""Stęszew"
-733,"/wiki/Stoczek_%C5%81ukowski"" title=""Stoczek Łukowski"
-734,"/wiki/Stopnica"" title=""Stopnica"
-735,"/wiki/Stronie_%C5%9Al%C4%85skie"" title=""Stronie Śląskie"
-736,"/wiki/Strumie%C5%84_(miasto)"" title=""Strumień "
-737,"/wiki/Stryk%C3%B3w"" title=""Stryków"
-738,"/wiki/Strzegom"" title=""Strzegom"
-739,"/wiki/Strzelce_Kraje%C5%84skie"" title=""Strzelce Krajeńskie"
-740,"/wiki/Strzelce_Opolskie"" title=""Strzelce Opolskie"
-741,"/wiki/Strzelin"" title=""Strzelin"
-742,"/wiki/Strzelno"" title=""Strzelno"
-743,"/wiki/Strzy%C5%BC%C3%B3w"" title=""Strzyżów"
-744,"/wiki/Sucha_Beskidzka"" title=""Sucha Beskidzka"
-745,"/wiki/Sucha%C5%84"" title=""Suchań"
-746,"/wiki/Suchedni%C3%B3w"" title=""Suchedniów"
-747,"/wiki/Suchowola"" title=""Suchowola"
-748,"/wiki/Sulech%C3%B3w"" title=""Sulechów"
-749,"/wiki/Sulej%C3%B3w"" title=""Sulejów"
-750,"/wiki/Sulej%C3%B3wek"" title=""Sulejówek"
-751,"/wiki/Sul%C4%99cin"" title=""Sulęcin"
-752,"/wiki/Sulmierzyce"" title=""Sulmierzyce"
-753,"/wiki/Su%C5%82kowice"" title=""Sułkowice"
-754,"/wiki/Supra%C5%9Bl"" title=""Supraśl"
-755,"/wiki/Sura%C5%BC"" title=""Suraż"
-756,"/wiki/Susz"" title=""Susz"
-757,"/wiki/Suwa%C5%82ki"" title=""Suwałki"
-758,"/wiki/Swarz%C4%99dz"" title=""Swarzędz"
-759,"/wiki/Syc%C3%B3w"" title=""Syców"
-760,"/wiki/Szadek"" title=""Szadek"
-761,"/wiki/Szamocin"" title=""Szamocin"
-762,"/wiki/Szamotu%C5%82y"" title=""Szamotuły"
-763,"/wiki/Szczawnica"" title=""Szczawnica"
-764,"/wiki/Szczebrzeszyn"" title=""Szczebrzeszyn"
-765,"/wiki/Szczecin"" title=""Szczecin"
-766,"/wiki/Szczecinek"" title=""Szczecinek"
-767,"/wiki/Szczekociny"" title=""Szczekociny"
-768,"/wiki/Szczucin"" title=""Szczucin"
-769,"/wiki/Szczuczyn_(wojew%C3%B3dztwo_podlaskie)"" title=""Szczuczyn "
-770,"/wiki/Szczyrk"" title=""Szczyrk"
-771,"/wiki/Szczytna"" title=""Szczytna"
-772,"/wiki/Szczytno"" title=""Szczytno"
-773,"/wiki/Szepietowo"" title=""Szepietowo"
-774,"/wiki/Szklarska_Por%C4%99ba"" title=""Szklarska Poręba"
-775,"/wiki/Szlichtyngowa"" title=""Szlichtyngowa"
-776,"/wiki/Szprotawa"" title=""Szprotawa"
-777,"/wiki/Sztum"" title=""Sztum"
-778,"/wiki/Szubin"" title=""Szubin"
-779,"/wiki/Szyd%C5%82%C3%B3w"" title=""Szydłów"
-780,"/wiki/Szyd%C5%82owiec"" title=""Szydłowiec"
-781,"/wiki/%C5%9Acinawa"" title=""Ścinawa"
-782,"/wiki/%C5%9Alesin"" title=""Ślesin"
-783,"/wiki/%C5%9Amigiel"" title=""Śmigiel"
-784,"/wiki/%C5%9Arem"" title=""Śrem"
-785,"/wiki/%C5%9Aroda_%C5%9Al%C4%85ska"" title=""Środa Śląska"
-786,"/wiki/%C5%9Aroda_Wielkopolska"" title=""Środa Wielkopolska"
-787,"/wiki/%C5%9Awi%C4%85tniki_G%C3%B3rne"" title=""Świątniki Górne"
-788,"/wiki/%C5%9Awidnica"" title=""Świdnica"
-789,"/wiki/%C5%9Awidnik"" title=""Świdnik"
-790,"/wiki/%C5%9Awidwin"" title=""Świdwin"
-791,"/wiki/%C5%9Awiebodzice"" title=""Świebodzice"
-792,"/wiki/%C5%9Awiebodzin"" title=""Świebodzin"
-793,"/wiki/%C5%9Awiecie"" title=""Świecie"
-794,"/wiki/%C5%9Awierzawa"" title=""Świerzawa"
-795,"/wiki/%C5%9Awi%C4%99toch%C5%82owice"" title=""Świętochłowice"
-796,"/wiki/%C5%9Awinouj%C5%9Bcie"" title=""Świnoujście"
-797,"/wiki/Tarczyn"" title=""Tarczyn"
-798,"/wiki/Tarnobrzeg"" title=""Tarnobrzeg"
-799,"/wiki/Tarnogr%C3%B3d"" title=""Tarnogród"
-800,"/wiki/Tarnowskie_G%C3%B3ry"" title=""Tarnowskie Góry"
-801,"/wiki/Tarn%C3%B3w"" title=""Tarnów"
-802,"/wiki/Tczew"" title=""Tczew"
-803,"/wiki/Terespol"" title=""Terespol"
-804,"/wiki/T%C5%82uszcz_(powiat_wo%C5%82omi%C5%84ski)"" title=""Tłuszcz "
-805,"/wiki/Tolkmicko"" title=""Tolkmicko"
-806,"/wiki/Tomasz%C3%B3w_Lubelski"" title=""Tomaszów Lubelski"
-807,"/wiki/Tomasz%C3%B3w_Mazowiecki"" title=""Tomaszów Mazowiecki"
-808,"/wiki/Toru%C5%84"" title=""Toruń"
-809,"/wiki/Torzym"" title=""Torzym"
-810,"/wiki/Toszek"" title=""Toszek"
-811,"/wiki/Trzcianka"" title=""Trzcianka"
-812,"/wiki/Trzciel"" title=""Trzciel"
-813,"/wiki/Trzebiat%C3%B3w"" title=""Trzebiatów"
-814,"/wiki/Trzebinia"" title=""Trzebinia"
-815,"/wiki/Trzebnica"" title=""Trzebnica"
-816,"/wiki/Trzemeszno"" title=""Trzemeszno"
-817,"/wiki/Tuchola"" title=""Tuchola"
-818,"/wiki/Tuch%C3%B3w"" title=""Tuchów"
-819,"/wiki/Tuczno"" title=""Tuczno"
-820,"/wiki/Tuliszk%C3%B3w"" title=""Tuliszków"
-821,"/wiki/Tu%C5%82owice"" title=""Tułowice"
-822,"/wiki/Turek"" title=""Turek"
-823,"/wiki/Tuszyn"" title=""Tuszyn"
-824,"/wiki/Twardog%C3%B3ra"" title=""Twardogóra"
-825,"/wiki/Tychowo"" title=""Tychowo"
-826,"/wiki/Tychy"" title=""Tychy"
-827,"/wiki/Tyczyn"" title=""Tyczyn"
-828,"/wiki/Tykocin"" title=""Tykocin"
-829,"/wiki/Tyszowce"" title=""Tyszowce"
-830,"/wiki/Ujazd"" title=""Ujazd"
-831,"/wiki/Uj%C5%9Bcie_(miasto)"" title=""Ujście "
-832,"/wiki/Ulan%C3%B3w"" title=""Ulanów"
-833,"/wiki/Uniej%C3%B3w"" title=""Uniejów"
-834,"/wiki/Urz%C4%99d%C3%B3w"" title=""Urzędów"
-835,"/wiki/Ustka"" title=""Ustka"
-836,"/wiki/Ustro%C5%84"" title=""Ustroń"
-837,"/wiki/Ustrzyki_Dolne"" title=""Ustrzyki Dolne"
-838,"/wiki/Wadowice"" title=""Wadowice"
-839,"/wiki/Wa%C5%82brzych"" title=""Wałbrzych"
-840,"/wiki/Wa%C5%82cz"" title=""Wałcz"
-841,"/wiki/Warka"" title=""Warka"
-842,"/wiki/Warszawa"" title=""Warszawa"
-843,"/wiki/Warta_(miasto)"" title=""Warta "
-844,"/wiki/Wasilk%C3%B3w"" title=""Wasilków"
-845,"/wiki/W%C4%85brze%C5%BAno"" title=""Wąbrzeźno"
-846,"/wiki/W%C4%85chock"" title=""Wąchock"
-847,"/wiki/W%C4%85growiec"" title=""Wągrowiec"
-848,"/wiki/W%C4%85sosz_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)"" title=""Wąsosz "
-849,"/wiki/Wejherowo"" title=""Wejherowo"
-850,"/wiki/W%C4%99gliniec"" title=""Węgliniec"
-851,"/wiki/W%C4%99gorzewo"" title=""Węgorzewo"
-852,"/wiki/W%C4%99gorzyno"" title=""Węgorzyno"
-853,"/wiki/W%C4%99gr%C3%B3w"" title=""Węgrów"
-854,"/wiki/Wi%C4%85z%C3%B3w"" title=""Wiązów"
-855,"/wiki/Wielbark"" title=""Wielbark"
-856,"/wiki/Wiele%C5%84"" title=""Wieleń"
-857,"/wiki/Wielichowo"" title=""Wielichowo"
-858,"/wiki/Wieliczka"" title=""Wieliczka"
-859,"/wiki/Wielu%C5%84"" title=""Wieluń"
-860,"/wiki/Wierusz%C3%B3w"" title=""Wieruszów"
-861,"/wiki/Wi%C4%99cbork"" title=""Więcbork"
-862,"/wiki/Wilamowice"" title=""Wilamowice"
-863,"/wiki/Wiskitki"" title=""Wiskitki"
-864,"/wiki/Wis%C5%82a_(miasto)"" title=""Wisła "
-865,"/wiki/Wi%C5%9Blica"" title=""Wiślica"
-866,"/wiki/Witkowo"" title=""Witkowo"
-867,"/wiki/Witnica"" title=""Witnica"
-868,"/wiki/Wle%C5%84"" title=""Wleń"
-869,"/wiki/W%C5%82adys%C5%82awowo"" title=""Władysławowo"
-870,"/wiki/W%C5%82oc%C5%82awek"" title=""Włocławek"
-871,"/wiki/W%C5%82odawa"" title=""Włodawa"
-872,"/wiki/W%C5%82oszczowa"" title=""Włoszczowa"
-873,"/wiki/Wodzis%C5%82aw"" title=""Wodzisław"
-874,"/wiki/Wodzis%C5%82aw_%C5%9Al%C4%85ski"" title=""Wodzisław Śląski"
-875,"/wiki/Wojciesz%C3%B3w"" title=""Wojcieszów"
-876,"/wiki/Wojkowice"" title=""Wojkowice"
-877,"/wiki/Wojnicz"" title=""Wojnicz"
-878,"/wiki/Wolb%C3%B3rz"" title=""Wolbórz"
+,0,1
+0,Aleksandrów Kujawski,https://pl.wikipedia.org/wiki/Aleksandr%C3%B3w_Kujawski
+1,Aleksandrów Łódzki,https://pl.wikipedia.org/wiki/Aleksandr%C3%B3w_%C5%81%C3%B3dzki
+2,Alwernia,https://pl.wikipedia.org/wiki/Alwernia
+3,Andrychów,https://pl.wikipedia.org/wiki/Andrych%C3%B3w
+4,Annopol,https://pl.wikipedia.org/wiki/Annopol
+5,Augustów,https://pl.wikipedia.org/wiki/August%C3%B3w
+6,Babimost,https://pl.wikipedia.org/wiki/Babimost
+7,Baborów,https://pl.wikipedia.org/wiki/Babor%C3%B3w
+8,Baranów Sandomierski,https://pl.wikipedia.org/wiki/Baran%C3%B3w_Sandomierski
+9,Barcin,https://pl.wikipedia.org/wiki/Barcin
+10,Barczewo,https://pl.wikipedia.org/wiki/Barczewo
+11,Bardo ,https://pl.wikipedia.org/wiki/Bardo_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+12,Barlinek,https://pl.wikipedia.org/wiki/Barlinek
+13,Bartoszyce,https://pl.wikipedia.org/wiki/Bartoszyce
+14,Barwice,https://pl.wikipedia.org/wiki/Barwice
+15,Bełchatów,https://pl.wikipedia.org/wiki/Be%C5%82chat%C3%B3w
+16,Bełżyce,https://pl.wikipedia.org/wiki/Be%C5%82%C5%BCyce
+17,Będzin,https://pl.wikipedia.org/wiki/B%C4%99dzin
+18,Biała ,https://pl.wikipedia.org/wiki/Bia%C5%82a_(miasto)
+19,Biała Piska,https://pl.wikipedia.org/wiki/Bia%C5%82a_Piska
+20,Biała Podlaska,https://pl.wikipedia.org/wiki/Bia%C5%82a_Podlaska
+21,Biała Rawska,https://pl.wikipedia.org/wiki/Bia%C5%82a_Rawska
+22,Białobrzegi,https://pl.wikipedia.org/wiki/Bia%C5%82obrzegi
+23,Białogard,https://pl.wikipedia.org/wiki/Bia%C5%82ogard
+24,Biały Bór,https://pl.wikipedia.org/wiki/Bia%C5%82y_B%C3%B3r
+25,Białystok,https://pl.wikipedia.org/wiki/Bia%C5%82ystok
+26,Biecz,https://pl.wikipedia.org/wiki/Biecz
+27,Bielawa,https://pl.wikipedia.org/wiki/Bielawa
+28,Bielsk Podlaski,https://pl.wikipedia.org/wiki/Bielsk_Podlaski
+29,Bieruń,https://pl.wikipedia.org/wiki/Bieru%C5%84
+30,Bierutów,https://pl.wikipedia.org/wiki/Bierut%C3%B3w
+31,Bieżuń,https://pl.wikipedia.org/wiki/Bie%C5%BCu%C5%84
+32,Biłgoraj,https://pl.wikipedia.org/wiki/Bi%C5%82goraj
+33,Biskupiec,https://pl.wikipedia.org/wiki/Biskupiec
+34,Bisztynek,https://pl.wikipedia.org/wiki/Bisztynek
+35,Blachownia,https://pl.wikipedia.org/wiki/Blachownia
+36,Błaszki,https://pl.wikipedia.org/wiki/B%C5%82aszki
+37,Błażowa,https://pl.wikipedia.org/wiki/B%C5%82a%C5%BCowa
+38,Błonie,https://pl.wikipedia.org/wiki/B%C5%82onie
+39,Bobolice,https://pl.wikipedia.org/wiki/Bobolice
+40,Bobowa,https://pl.wikipedia.org/wiki/Bobowa
+41,Bochnia,https://pl.wikipedia.org/wiki/Bochnia
+42,Bodzentyn,https://pl.wikipedia.org/wiki/Bodzentyn
+43,Bogatynia,https://pl.wikipedia.org/wiki/Bogatynia
+44,Boguchwała,https://pl.wikipedia.org/wiki/Boguchwa%C5%82a
+45,Bojanowo,https://pl.wikipedia.org/wiki/Bojanowo
+46,Bolesławiec,https://pl.wikipedia.org/wiki/Boles%C5%82awiec
+47,Bolimów,https://pl.wikipedia.org/wiki/Bolim%C3%B3w
+48,Bolków,https://pl.wikipedia.org/wiki/Bolk%C3%B3w
+49,Borek Wielkopolski,https://pl.wikipedia.org/wiki/Borek_Wielkopolski
+50,Borne Sulinowo,https://pl.wikipedia.org/wiki/Borne_Sulinowo
+51,Braniewo,https://pl.wikipedia.org/wiki/Braniewo
+52,Brańsk,https://pl.wikipedia.org/wiki/Bra%C5%84sk
+53,Brodnica,https://pl.wikipedia.org/wiki/Brodnica
+54,Brok,https://pl.wikipedia.org/wiki/Brok
+55,Brusy,https://pl.wikipedia.org/wiki/Brusy
+56,Brwinów,https://pl.wikipedia.org/wiki/Brwin%C3%B3w
+57,Brzeg ,https://pl.wikipedia.org/wiki/Brzeg_(miasto)
+58,Brzeg Dolny,https://pl.wikipedia.org/wiki/Brzeg_Dolny
+59,Brzesko,https://pl.wikipedia.org/wiki/Brzesko
+60,Brzeszcze,https://pl.wikipedia.org/wiki/Brzeszcze
+61,Brześć Kujawski,https://pl.wikipedia.org/wiki/Brze%C5%9B%C4%87_Kujawski
+62,Brzeziny,https://pl.wikipedia.org/wiki/Brzeziny
+63,Brzostek,https://pl.wikipedia.org/wiki/Brzostek
+64,Brzozów,https://pl.wikipedia.org/wiki/Brzoz%C3%B3w
+65,Budzyń,https://pl.wikipedia.org/wiki/Budzy%C5%84
+66,Buk ,https://pl.wikipedia.org/wiki/Buk_(wojew%C3%B3dztwo_wielkopolskie)
+67,Bukowno,https://pl.wikipedia.org/wiki/Bukowno
+68,Bychawa,https://pl.wikipedia.org/wiki/Bychawa
+69,Byczyna,https://pl.wikipedia.org/wiki/Byczyna
+70,Bydgoszcz,https://pl.wikipedia.org/wiki/Bydgoszcz
+71,Bystrzyca Kłodzka,https://pl.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka
+72,Bytom,https://pl.wikipedia.org/wiki/Bytom
+73,Bytom Odrzański,https://pl.wikipedia.org/wiki/Bytom_Odrza%C5%84ski
+74,Bytów,https://pl.wikipedia.org/wiki/Byt%C3%B3w
+75,Cedynia,https://pl.wikipedia.org/wiki/Cedynia
+76,Cegłów,https://pl.wikipedia.org/wiki/Ceg%C5%82%C3%B3w
+77,Chełm,https://pl.wikipedia.org/wiki/Che%C5%82m
+78,Chełmek,https://pl.wikipedia.org/wiki/Che%C5%82mek
+79,Chełmno,https://pl.wikipedia.org/wiki/Che%C5%82mno
+80,Chełmża,https://pl.wikipedia.org/wiki/Che%C5%82m%C5%BCa
+81,Chęciny,https://pl.wikipedia.org/wiki/Ch%C4%99ciny
+82,Chmielnik ,https://pl.wikipedia.org/wiki/Chmielnik_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)
+83,Chocianów,https://pl.wikipedia.org/wiki/Chocian%C3%B3w
+84,Chociwel,https://pl.wikipedia.org/wiki/Chociwel
+85,Chocz,https://pl.wikipedia.org/wiki/Chocz
+86,Chodecz,https://pl.wikipedia.org/wiki/Chodecz
+87,Chodzież,https://pl.wikipedia.org/wiki/Chodzie%C5%BC
+88,Chojna,https://pl.wikipedia.org/wiki/Chojna
+89,Chojnice,https://pl.wikipedia.org/wiki/Chojnice
+90,Chojnów,https://pl.wikipedia.org/wiki/Chojn%C3%B3w
+91,Choroszcz,https://pl.wikipedia.org/wiki/Choroszcz
+92,Chorzele,https://pl.wikipedia.org/wiki/Chorzele
+93,Chorzów,https://pl.wikipedia.org/wiki/Chorz%C3%B3w
+94,Choszczno,https://pl.wikipedia.org/wiki/Choszczno
+95,Chrzanów,https://pl.wikipedia.org/wiki/Chrzan%C3%B3w
+96,Ciechanowiec,https://pl.wikipedia.org/wiki/Ciechanowiec
+97,Ciechanów,https://pl.wikipedia.org/wiki/Ciechan%C3%B3w
+98,Ciechocinek,https://pl.wikipedia.org/wiki/Ciechocinek
+99,Cieszanów,https://pl.wikipedia.org/wiki/Cieszan%C3%B3w
+100,Cieszyn,https://pl.wikipedia.org/wiki/Cieszyn
+101,Ciężkowice,https://pl.wikipedia.org/wiki/Ci%C4%99%C5%BCkowice
+102,Cybinka,https://pl.wikipedia.org/wiki/Cybinka
+103,Czaplinek,https://pl.wikipedia.org/wiki/Czaplinek
+104,Czarna Białostocka,https://pl.wikipedia.org/wiki/Czarna_Bia%C5%82ostocka
+105,Czarna Woda ,https://pl.wikipedia.org/wiki/Czarna_Woda_(miasto)
+106,Czarne,https://pl.wikipedia.org/wiki/Czarne
+107,Czarnków,https://pl.wikipedia.org/wiki/Czarnk%C3%B3w
+108,Czchów,https://pl.wikipedia.org/wiki/Czch%C3%B3w
+109,Czeladź ,https://pl.wikipedia.org/wiki/Czelad%C5%BA_(miasto)
+110,Czempiń,https://pl.wikipedia.org/wiki/Czempi%C5%84
+111,Czerniejewo,https://pl.wikipedia.org/wiki/Czerniejewo
+112,Czersk,https://pl.wikipedia.org/wiki/Czersk
+113,Czerwieńsk,https://pl.wikipedia.org/wiki/Czerwie%C5%84sk
+114,Czerwińsk nad Wisłą,https://pl.wikipedia.org/wiki/Czerwi%C5%84sk_nad_Wis%C5%82%C4%85
+115,Częstochowa,https://pl.wikipedia.org/wiki/Cz%C4%99stochowa
+116,Człopa,https://pl.wikipedia.org/wiki/Cz%C5%82opa
+117,Człuchów,https://pl.wikipedia.org/wiki/Cz%C5%82uch%C3%B3w
+118,Czyżew,https://pl.wikipedia.org/wiki/Czy%C5%BCew
+119,Ćmielów,https://pl.wikipedia.org/wiki/%C4%86miel%C3%B3w
+120,Daleszyce,https://pl.wikipedia.org/wiki/Daleszyce
+121,Darłowo,https://pl.wikipedia.org/wiki/Dar%C5%82owo
+122,Dąbie,https://pl.wikipedia.org/wiki/D%C4%85bie
+123,Dąbrowa Białostocka,https://pl.wikipedia.org/wiki/D%C4%85browa_Bia%C5%82ostocka
+124,Dąbrowa Górnicza,https://pl.wikipedia.org/wiki/D%C4%85browa_G%C3%B3rnicza
+125,Dąbrowa Tarnowska,https://pl.wikipedia.org/wiki/D%C4%85browa_Tarnowska
+126,Debrzno,https://pl.wikipedia.org/wiki/Debrzno
+127,Dębica,https://pl.wikipedia.org/wiki/D%C4%99bica
+128,Dęblin,https://pl.wikipedia.org/wiki/D%C4%99blin
+129,Dębno,https://pl.wikipedia.org/wiki/D%C4%99bno
+130,Dobczyce,https://pl.wikipedia.org/wiki/Dobczyce
+131,Dobiegniew,https://pl.wikipedia.org/wiki/Dobiegniew
+132,Dobra ,https://pl.wikipedia.org/wiki/Dobra_(powiat_%C5%82obeski)
+133,Dobra ,https://pl.wikipedia.org/wiki/Dobra_(powiat_turecki)
+134,Dobre Miasto,https://pl.wikipedia.org/wiki/Dobre_Miasto
+135,Dobrodzień,https://pl.wikipedia.org/wiki/Dobrodzie%C5%84
+136,Dobrzany,https://pl.wikipedia.org/wiki/Dobrzany
+137,Dobrzyca,https://pl.wikipedia.org/wiki/Dobrzyca
+138,Dobrzyń nad Wisłą,https://pl.wikipedia.org/wiki/Dobrzy%C5%84_nad_Wis%C5%82%C4%85
+139,Dolsk,https://pl.wikipedia.org/wiki/Dolsk
+140,Drawno,https://pl.wikipedia.org/wiki/Drawno
+141,Drawsko Pomorskie,https://pl.wikipedia.org/wiki/Drawsko_Pomorskie
+142,Drezdenko,https://pl.wikipedia.org/wiki/Drezdenko
+143,Drobin,https://pl.wikipedia.org/wiki/Drobin
+144,Drohiczyn ,https://pl.wikipedia.org/wiki/Drohiczyn_(Polska)
+145,Drzewica ,https://pl.wikipedia.org/wiki/Drzewica_(wojew%C3%B3dztwo_%C5%82%C3%B3dzkie)
+146,Dubiecko,https://pl.wikipedia.org/wiki/Dubiecko
+147,Dukla,https://pl.wikipedia.org/wiki/Dukla
+148,Dynów,https://pl.wikipedia.org/wiki/Dyn%C3%B3w
+149,Działdowo,https://pl.wikipedia.org/wiki/Dzia%C5%82dowo
+150,Działoszyce,https://pl.wikipedia.org/wiki/Dzia%C5%82oszyce
+151,Działoszyn,https://pl.wikipedia.org/wiki/Dzia%C5%82oszyn
+152,Dzierzgoń,https://pl.wikipedia.org/wiki/Dzierzgo%C5%84
+153,Dzierżoniów,https://pl.wikipedia.org/wiki/Dzier%C5%BConi%C3%B3w
+154,Dziwnów,https://pl.wikipedia.org/wiki/Dziwn%C3%B3w
+155,Elbląg,https://pl.wikipedia.org/wiki/Elbl%C4%85g
+156,Ełk,https://pl.wikipedia.org/wiki/E%C5%82k
+157,Frampol,https://pl.wikipedia.org/wiki/Frampol
+158,Frombork,https://pl.wikipedia.org/wiki/Frombork
+159,Garwolin,https://pl.wikipedia.org/wiki/Garwolin
+160,Gąbin,https://pl.wikipedia.org/wiki/G%C4%85bin
+161,Gdańsk,https://pl.wikipedia.org/wiki/Gda%C5%84sk
+162,Gdynia,https://pl.wikipedia.org/wiki/Gdynia
+163,Giżycko,https://pl.wikipedia.org/wiki/Gi%C5%BCycko
+164,Glinojeck,https://pl.wikipedia.org/wiki/Glinojeck
+165,Gliwice,https://pl.wikipedia.org/wiki/Gliwice
+166,Głogów,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w
+167,Głogów Małopolski,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3w_Ma%C5%82opolski
+168,Głogówek,https://pl.wikipedia.org/wiki/G%C5%82og%C3%B3wek
+169,Głowno,https://pl.wikipedia.org/wiki/G%C5%82owno
+170,Głubczyce,https://pl.wikipedia.org/wiki/G%C5%82ubczyce
+171,Głuchołazy,https://pl.wikipedia.org/wiki/G%C5%82ucho%C5%82azy
+172,Głuszyca,https://pl.wikipedia.org/wiki/G%C5%82uszyca
+173,Gniew ,https://pl.wikipedia.org/wiki/Gniew_(miasto)
+174,Gniewkowo,https://pl.wikipedia.org/wiki/Gniewkowo
+175,Gniezno,https://pl.wikipedia.org/wiki/Gniezno
+176,Gogolin,https://pl.wikipedia.org/wiki/Gogolin
+177,Golczewo,https://pl.wikipedia.org/wiki/Golczewo
+178,Goleniów,https://pl.wikipedia.org/wiki/Goleni%C3%B3w
+179,Golina,https://pl.wikipedia.org/wiki/Golina
+180,Gołańcz,https://pl.wikipedia.org/wiki/Go%C5%82a%C5%84cz
+181,Gołdap,https://pl.wikipedia.org/wiki/Go%C5%82dap
+182,Goniądz,https://pl.wikipedia.org/wiki/Goni%C4%85dz
+183,Goraj,https://pl.wikipedia.org/wiki/Goraj
+184,Gorlice,https://pl.wikipedia.org/wiki/Gorlice
+185,Gorzów Śląski,https://pl.wikipedia.org/wiki/Gorz%C3%B3w_%C5%9Al%C4%85ski
+186,Gorzów Wielkopolski,https://pl.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski
+187,Gostynin,https://pl.wikipedia.org/wiki/Gostynin
+188,Gostyń,https://pl.wikipedia.org/wiki/Gosty%C5%84
+189,Gościno,https://pl.wikipedia.org/wiki/Go%C5%9Bcino
+190,Gozdnica,https://pl.wikipedia.org/wiki/Gozdnica
+191,Góra ,https://pl.wikipedia.org/wiki/G%C3%B3ra_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+192,Góra Kalwaria,https://pl.wikipedia.org/wiki/G%C3%B3ra_Kalwaria
+193,Górowo Iławeckie,https://pl.wikipedia.org/wiki/G%C3%B3rowo_I%C5%82aweckie
+194,Górzno,https://pl.wikipedia.org/wiki/G%C3%B3rzno
+195,Grabów nad Prosną,https://pl.wikipedia.org/wiki/Grab%C3%B3w_nad_Prosn%C4%85
+196,Grajewo,https://pl.wikipedia.org/wiki/Grajewo
+197,Grodków,https://pl.wikipedia.org/wiki/Grodk%C3%B3w
+198,Grodzisk Mazowiecki,https://pl.wikipedia.org/wiki/Grodzisk_Mazowiecki
+199,Grodzisk Wielkopolski,https://pl.wikipedia.org/wiki/Grodzisk_Wielkopolski
+200,Grójec,https://pl.wikipedia.org/wiki/Gr%C3%B3jec
+201,Grudziądz,https://pl.wikipedia.org/wiki/Grudzi%C4%85dz
+202,Grybów,https://pl.wikipedia.org/wiki/Gryb%C3%B3w
+203,Gryfice,https://pl.wikipedia.org/wiki/Gryfice
+204,Gryfino,https://pl.wikipedia.org/wiki/Gryfino
+205,Gryfów Śląski,https://pl.wikipedia.org/wiki/Gryf%C3%B3w_%C5%9Al%C4%85ski
+206,Gubin,https://pl.wikipedia.org/wiki/Gubin
+207,Hajnówka,https://pl.wikipedia.org/wiki/Hajn%C3%B3wka
+208,Halinów,https://pl.wikipedia.org/wiki/Halin%C3%B3w
+209,Hel ,https://pl.wikipedia.org/wiki/Hel_(miasto)
+210,Hrubieszów,https://pl.wikipedia.org/wiki/Hrubiesz%C3%B3w
+211,Iława,https://pl.wikipedia.org/wiki/I%C5%82awa
+212,Iłowa,https://pl.wikipedia.org/wiki/I%C5%82owa
+213,Iłża,https://pl.wikipedia.org/wiki/I%C5%82%C5%BCa
+214,Imielin,https://pl.wikipedia.org/wiki/Imielin
+215,Inowrocław,https://pl.wikipedia.org/wiki/Inowroc%C5%82aw
+216,Ińsko,https://pl.wikipedia.org/wiki/I%C5%84sko
+217,Iwaniska,https://pl.wikipedia.org/wiki/Iwaniska
+218,Izbica ,https://pl.wikipedia.org/wiki/Izbica_(miasto)
+219,Izbica Kujawska,https://pl.wikipedia.org/wiki/Izbica_Kujawska
+220,Jabłonowo Pomorskie,https://pl.wikipedia.org/wiki/Jab%C5%82onowo_Pomorskie
+221,Janikowo,https://pl.wikipedia.org/wiki/Janikowo
+222,Janowiec Wielkopolski,https://pl.wikipedia.org/wiki/Janowiec_Wielkopolski
+223,Janów Lubelski,https://pl.wikipedia.org/wiki/Jan%C3%B3w_Lubelski
+224,Jaraczewo,https://pl.wikipedia.org/wiki/Jaraczewo
+225,Jarocin,https://pl.wikipedia.org/wiki/Jarocin
+226,Jarosław ,https://pl.wikipedia.org/wiki/Jaros%C5%82aw_(wojew%C3%B3dztwo_podkarpackie)
+227,Jasień ,https://pl.wikipedia.org/wiki/Jasie%C5%84_(wojew%C3%B3dztwo_lubuskie)
+228,Jasło,https://pl.wikipedia.org/wiki/Jas%C5%82o
+229,Jastarnia,https://pl.wikipedia.org/wiki/Jastarnia
+230,Jastrowie,https://pl.wikipedia.org/wiki/Jastrowie
+231,Jawor ,https://pl.wikipedia.org/wiki/Jawor_(miasto)
+232,Jaworzno,https://pl.wikipedia.org/wiki/Jaworzno
+233,Jaworzyna Śląska,https://pl.wikipedia.org/wiki/Jaworzyna_%C5%9Al%C4%85ska
+234,Jedlicze,https://pl.wikipedia.org/wiki/Jedlicze
+235,Jedwabne,https://pl.wikipedia.org/wiki/Jedwabne
+236,Jelenia Góra,https://pl.wikipedia.org/wiki/Jelenia_G%C3%B3ra
+237,Jeziorany,https://pl.wikipedia.org/wiki/Jeziorany
+238,Jędrzejów,https://pl.wikipedia.org/wiki/J%C4%99drzej%C3%B3w
+239,Jordanów,https://pl.wikipedia.org/wiki/Jordan%C3%B3w
+240,Józefów ,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_(powiat_bi%C5%82gorajski)
+241,Józefów ,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_(powiat_otwocki)
+242,Józefów nad Wisłą,https://pl.wikipedia.org/wiki/J%C3%B3zef%C3%B3w_nad_Wis%C5%82%C4%85
+243,Jutrosin,https://pl.wikipedia.org/wiki/Jutrosin
+244,Kaczory,https://pl.wikipedia.org/wiki/Kaczory
+245,Kalety,https://pl.wikipedia.org/wiki/Kalety
+246,Kalisz,https://pl.wikipedia.org/wiki/Kalisz
+247,Kalisz Pomorski,https://pl.wikipedia.org/wiki/Kalisz_Pomorski
+248,Kalwaria Zebrzydowska,https://pl.wikipedia.org/wiki/Kalwaria_Zebrzydowska
+249,Kałuszyn,https://pl.wikipedia.org/wiki/Ka%C5%82uszyn
+250,Kamieniec Ząbkowicki,https://pl.wikipedia.org/wiki/Kamieniec_Z%C4%85bkowicki
+251,Kamienna Góra,https://pl.wikipedia.org/wiki/Kamienna_G%C3%B3ra
+252,Kamień Krajeński,https://pl.wikipedia.org/wiki/Kamie%C5%84_Kraje%C5%84ski
+253,Kamień Pomorski,https://pl.wikipedia.org/wiki/Kamie%C5%84_Pomorski
+254,Kamieńsk,https://pl.wikipedia.org/wiki/Kamie%C5%84sk
+255,Kamionka ,https://pl.wikipedia.org/wiki/Kamionka_(powiat_lubartowski)
+256,Kańczuga,https://pl.wikipedia.org/wiki/Ka%C5%84czuga
+257,Karczew,https://pl.wikipedia.org/wiki/Karczew
+258,Kargowa,https://pl.wikipedia.org/wiki/Kargowa
+259,Karlino,https://pl.wikipedia.org/wiki/Karlino
+260,Karpacz,https://pl.wikipedia.org/wiki/Karpacz
+261,Kartuzy,https://pl.wikipedia.org/wiki/Kartuzy
+262,Katowice,https://pl.wikipedia.org/wiki/Katowice
+263,Kazimierz Dolny,https://pl.wikipedia.org/wiki/Kazimierz_Dolny
+264,Kazimierza Wielka,https://pl.wikipedia.org/wiki/Kazimierza_Wielka
+265,Kąty Wrocławskie,https://pl.wikipedia.org/wiki/K%C4%85ty_Wroc%C5%82awskie
+266,Kcynia,https://pl.wikipedia.org/wiki/Kcynia
+267,Kępice,https://pl.wikipedia.org/wiki/K%C4%99pice
+268,Kępno,https://pl.wikipedia.org/wiki/K%C4%99pno
+269,Kętrzyn,https://pl.wikipedia.org/wiki/K%C4%99trzyn
+270,Kęty,https://pl.wikipedia.org/wiki/K%C4%99ty
+271,Kielce,https://pl.wikipedia.org/wiki/Kielce
+272,Kietrz,https://pl.wikipedia.org/wiki/Kietrz
+273,Kisielice,https://pl.wikipedia.org/wiki/Kisielice
+274,Kleczew,https://pl.wikipedia.org/wiki/Kleczew
+275,Kleszczele,https://pl.wikipedia.org/wiki/Kleszczele
+276,Klimontów,https://pl.wikipedia.org/wiki/Klimont%C3%B3w
+277,Kluczbork,https://pl.wikipedia.org/wiki/Kluczbork
+278,Kłecko,https://pl.wikipedia.org/wiki/K%C5%82ecko
+279,Kłobuck,https://pl.wikipedia.org/wiki/K%C5%82obuck
+280,Kłodawa,https://pl.wikipedia.org/wiki/K%C5%82odawa
+281,Kłodzko,https://pl.wikipedia.org/wiki/K%C5%82odzko
+282,Knurów,https://pl.wikipedia.org/wiki/Knur%C3%B3w
+283,Knyszyn,https://pl.wikipedia.org/wiki/Knyszyn
+284,Kobylin,https://pl.wikipedia.org/wiki/Kobylin
+285,Kobyłka,https://pl.wikipedia.org/wiki/Koby%C5%82ka
+286,Kock,https://pl.wikipedia.org/wiki/Kock
+287,Kolbuszowa,https://pl.wikipedia.org/wiki/Kolbuszowa
+288,Kolno,https://pl.wikipedia.org/wiki/Kolno
+289,Kolonowskie,https://pl.wikipedia.org/wiki/Kolonowskie
+290,Koluszki,https://pl.wikipedia.org/wiki/Koluszki
+291,Kołaczyce,https://pl.wikipedia.org/wiki/Ko%C5%82aczyce
+292,Koło ,https://pl.wikipedia.org/wiki/Ko%C5%82o_(miasto)
+293,Kołobrzeg,https://pl.wikipedia.org/wiki/Ko%C5%82obrzeg
+294,Koniecpol,https://pl.wikipedia.org/wiki/Koniecpol
+295,Konin,https://pl.wikipedia.org/wiki/Konin
+296,Konstantynów Łódzki,https://pl.wikipedia.org/wiki/Konstantyn%C3%B3w_%C5%81%C3%B3dzki
+297,Końskie,https://pl.wikipedia.org/wiki/Ko%C5%84skie
+298,Koprzywnica,https://pl.wikipedia.org/wiki/Koprzywnica
+299,Korfantów,https://pl.wikipedia.org/wiki/Korfant%C3%B3w
+300,Koronowo,https://pl.wikipedia.org/wiki/Koronowo
+301,Korsze,https://pl.wikipedia.org/wiki/Korsze
+302,Kosów Lacki,https://pl.wikipedia.org/wiki/Kos%C3%B3w_Lacki
+303,Kostrzyn,https://pl.wikipedia.org/wiki/Kostrzyn
+304,Kostrzyn nad Odrą,https://pl.wikipedia.org/wiki/Kostrzyn_nad_Odr%C4%85
+305,Koszalin,https://pl.wikipedia.org/wiki/Koszalin
+306,Koszyce ,https://pl.wikipedia.org/wiki/Koszyce_(wojew%C3%B3dztwo_ma%C5%82opolskie)
+307,Kościan,https://pl.wikipedia.org/wiki/Ko%C5%9Bcian
+308,Kościerzyna,https://pl.wikipedia.org/wiki/Ko%C5%9Bcierzyna
+309,Kowal ,https://pl.wikipedia.org/wiki/Kowal_(miasto)
+310,Kowalewo Pomorskie,https://pl.wikipedia.org/wiki/Kowalewo_Pomorskie
+311,Kowary,https://pl.wikipedia.org/wiki/Kowary
+312,Koziegłowy ,https://pl.wikipedia.org/wiki/Kozieg%C5%82owy_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)
+313,Kozienice,https://pl.wikipedia.org/wiki/Kozienice
+314,Koźmin Wielkopolski,https://pl.wikipedia.org/wiki/Ko%C5%BAmin_Wielkopolski
+315,Koźminek,https://pl.wikipedia.org/wiki/Ko%C5%BAminek
+316,Kożuchów,https://pl.wikipedia.org/wiki/Ko%C5%BCuch%C3%B3w
+317,Kórnik,https://pl.wikipedia.org/wiki/K%C3%B3rnik
+318,Krajenka,https://pl.wikipedia.org/wiki/Krajenka
+319,Kraków,https://pl.wikipedia.org/wiki/Krak%C3%B3w
+320,Krapkowice,https://pl.wikipedia.org/wiki/Krapkowice
+321,Krasnobród,https://pl.wikipedia.org/wiki/Krasnobr%C3%B3d
+322,Krasnystaw,https://pl.wikipedia.org/wiki/Krasnystaw
+323,Kraśnik,https://pl.wikipedia.org/wiki/Kra%C5%9Bnik
+324,Krobia,https://pl.wikipedia.org/wiki/Krobia
+325,Krosno,https://pl.wikipedia.org/wiki/Krosno
+326,Krosno Odrzańskie,https://pl.wikipedia.org/wiki/Krosno_Odrza%C5%84skie
+327,Krośniewice,https://pl.wikipedia.org/wiki/Kro%C5%9Bniewice
+328,Krotoszyn,https://pl.wikipedia.org/wiki/Krotoszyn
+329,Kruszwica,https://pl.wikipedia.org/wiki/Kruszwica
+330,Krynica Morska,https://pl.wikipedia.org/wiki/Krynica_Morska
+331,Krynki,https://pl.wikipedia.org/wiki/Krynki
+332,Krzanowice,https://pl.wikipedia.org/wiki/Krzanowice
+333,Krzepice,https://pl.wikipedia.org/wiki/Krzepice
+334,Krzeszowice,https://pl.wikipedia.org/wiki/Krzeszowice
+335,Krzywiń,https://pl.wikipedia.org/wiki/Krzywi%C5%84
+336,Krzyż Wielkopolski,https://pl.wikipedia.org/wiki/Krzy%C5%BC_Wielkopolski
+337,Książ Wielkopolski,https://pl.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Wielkopolski
+338,Kunów,https://pl.wikipedia.org/wiki/Kun%C3%B3w
+339,Kutno,https://pl.wikipedia.org/wiki/Kutno
+340,Kuźnia Raciborska,https://pl.wikipedia.org/wiki/Ku%C5%BAnia_Raciborska
+341,Kwidzyn,https://pl.wikipedia.org/wiki/Kwidzyn
+342,Legionowo,https://pl.wikipedia.org/wiki/Legionowo
+343,Legnica,https://pl.wikipedia.org/wiki/Legnica
+344,Lesko,https://pl.wikipedia.org/wiki/Lesko
+345,Leszno,https://pl.wikipedia.org/wiki/Leszno
+346,Leśna,https://pl.wikipedia.org/wiki/Le%C5%9Bna
+347,Leśnica ,https://pl.wikipedia.org/wiki/Le%C5%9Bnica_(wojew%C3%B3dztwo_opolskie)
+348,Lewin Brzeski,https://pl.wikipedia.org/wiki/Lewin_Brzeski
+349,Leżajsk,https://pl.wikipedia.org/wiki/Le%C5%BCajsk
+350,Lębork,https://pl.wikipedia.org/wiki/L%C4%99bork
+351,Lędziny,https://pl.wikipedia.org/wiki/L%C4%99dziny
+352,Libiąż,https://pl.wikipedia.org/wiki/Libi%C4%85%C5%BC
+353,Lidzbark,https://pl.wikipedia.org/wiki/Lidzbark
+354,Lidzbark Warmiński,https://pl.wikipedia.org/wiki/Lidzbark_Warmi%C5%84ski
+355,Limanowa,https://pl.wikipedia.org/wiki/Limanowa
+356,Lipiany,https://pl.wikipedia.org/wiki/Lipiany
+357,Lipno,https://pl.wikipedia.org/wiki/Lipno
+358,Lipsk ,https://pl.wikipedia.org/wiki/Lipsk_(Polska)
+359,Lipsko,https://pl.wikipedia.org/wiki/Lipsko
+360,Lubaczów,https://pl.wikipedia.org/wiki/Lubacz%C3%B3w
+361,Lubań ,https://pl.wikipedia.org/wiki/Luba%C5%84_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+362,Lubartów,https://pl.wikipedia.org/wiki/Lubart%C3%B3w
+363,Lubawa,https://pl.wikipedia.org/wiki/Lubawa
+364,Lubawka,https://pl.wikipedia.org/wiki/Lubawka
+365,Lubień Kujawski,https://pl.wikipedia.org/wiki/Lubie%C5%84_Kujawski
+366,Lubin,https://pl.wikipedia.org/wiki/Lubin
+367,Lublin,https://pl.wikipedia.org/wiki/Lublin
+368,Lubliniec,https://pl.wikipedia.org/wiki/Lubliniec
+369,Lubniewice,https://pl.wikipedia.org/wiki/Lubniewice
+370,Lubomierz,https://pl.wikipedia.org/wiki/Lubomierz
+371,Luboń,https://pl.wikipedia.org/wiki/Lubo%C5%84
+372,Lubowidz,https://pl.wikipedia.org/wiki/Lubowidz
+373,Lubraniec,https://pl.wikipedia.org/wiki/Lubraniec
+374,Lubsko,https://pl.wikipedia.org/wiki/Lubsko
+375,Lubycza Królewska,https://pl.wikipedia.org/wiki/Lubycza_Kr%C3%B3lewska
+376,Lutomiersk,https://pl.wikipedia.org/wiki/Lutomiersk
+377,Lututów,https://pl.wikipedia.org/wiki/Lutut%C3%B3w
+378,Lwówek,https://pl.wikipedia.org/wiki/Lw%C3%B3wek
+379,Lwówek Śląski,https://pl.wikipedia.org/wiki/Lw%C3%B3wek_%C5%9Al%C4%85ski
+380,Łabiszyn,https://pl.wikipedia.org/wiki/%C5%81abiszyn
+381,Łagów,https://pl.wikipedia.org/wiki/%C5%81ag%C3%B3w
+382,Łańcut,https://pl.wikipedia.org/wiki/%C5%81a%C5%84cut
+383,Łapy,https://pl.wikipedia.org/wiki/%C5%81apy
+384,Łasin,https://pl.wikipedia.org/wiki/%C5%81asin
+385,Łask,https://pl.wikipedia.org/wiki/%C5%81ask
+386,Łaskarzew,https://pl.wikipedia.org/wiki/%C5%81askarzew
+387,Łaszczów,https://pl.wikipedia.org/wiki/%C5%81aszcz%C3%B3w
+388,Łaziska Górne,https://pl.wikipedia.org/wiki/%C5%81aziska_G%C3%B3rne
+389,Łazy,https://pl.wikipedia.org/wiki/%C5%81azy
+390,Łeba,https://pl.wikipedia.org/wiki/%C5%81eba
+391,Łęczna,https://pl.wikipedia.org/wiki/%C5%81%C4%99czna
+392,Łęczyca,https://pl.wikipedia.org/wiki/%C5%81%C4%99czyca
+393,Łęknica,https://pl.wikipedia.org/wiki/%C5%81%C4%99knica
+394,Łobez,https://pl.wikipedia.org/wiki/%C5%81obez
+395,Łobżenica,https://pl.wikipedia.org/wiki/%C5%81ob%C5%BCenica
+396,Łochów,https://pl.wikipedia.org/wiki/%C5%81och%C3%B3w
+397,Łomianki,https://pl.wikipedia.org/wiki/%C5%81omianki
+398,Łomża,https://pl.wikipedia.org/wiki/%C5%81om%C5%BCa
+399,Łosice,https://pl.wikipedia.org/wiki/%C5%81osice
+400,Łowicz,https://pl.wikipedia.org/wiki/%C5%81owicz
+401,Łódź,https://pl.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA
+402,Łuków,https://pl.wikipedia.org/wiki/%C5%81uk%C3%B3w
+403,Maków Mazowiecki,https://pl.wikipedia.org/wiki/Mak%C3%B3w_Mazowiecki
+404,Maków Podhalański,https://pl.wikipedia.org/wiki/Mak%C3%B3w_Podhala%C5%84ski
+405,Malbork,https://pl.wikipedia.org/wiki/Malbork
+406,Małogoszcz,https://pl.wikipedia.org/wiki/Ma%C5%82ogoszcz
+407,Małomice,https://pl.wikipedia.org/wiki/Ma%C5%82omice
+408,Margonin,https://pl.wikipedia.org/wiki/Margonin
+409,Marki,https://pl.wikipedia.org/wiki/Marki
+410,Maszewo,https://pl.wikipedia.org/wiki/Maszewo
+411,Miasteczko Śląskie,https://pl.wikipedia.org/wiki/Miasteczko_%C5%9Al%C4%85skie
+412,Miastko,https://pl.wikipedia.org/wiki/Miastko
+413,Michałowo,https://pl.wikipedia.org/wiki/Micha%C5%82owo
+414,Miechów,https://pl.wikipedia.org/wiki/Miech%C3%B3w
+415,Miejska Górka,https://pl.wikipedia.org/wiki/Miejska_G%C3%B3rka
+416,Mielec,https://pl.wikipedia.org/wiki/Mielec
+417,Mielno,https://pl.wikipedia.org/wiki/Mielno
+418,Mieroszów,https://pl.wikipedia.org/wiki/Mierosz%C3%B3w
+419,Mieszkowice,https://pl.wikipedia.org/wiki/Mieszkowice
+420,Międzybórz,https://pl.wikipedia.org/wiki/Mi%C4%99dzyb%C3%B3rz
+421,Międzychód,https://pl.wikipedia.org/wiki/Mi%C4%99dzych%C3%B3d
+422,Międzylesie,https://pl.wikipedia.org/wiki/Mi%C4%99dzylesie
+423,Międzyrzec Podlaski,https://pl.wikipedia.org/wiki/Mi%C4%99dzyrzec_Podlaski
+424,Międzyrzecz,https://pl.wikipedia.org/wiki/Mi%C4%99dzyrzecz
+425,Międzyzdroje,https://pl.wikipedia.org/wiki/Mi%C4%99dzyzdroje
+426,Mikołajki,https://pl.wikipedia.org/wiki/Miko%C5%82ajki
+427,Mikołów,https://pl.wikipedia.org/wiki/Miko%C5%82%C3%B3w
+428,Mikstat,https://pl.wikipedia.org/wiki/Mikstat
+429,Milanówek,https://pl.wikipedia.org/wiki/Milan%C3%B3wek
+430,Milicz,https://pl.wikipedia.org/wiki/Milicz
+431,Miłakowo,https://pl.wikipedia.org/wiki/Mi%C5%82akowo
+432,Miłomłyn,https://pl.wikipedia.org/wiki/Mi%C5%82om%C5%82yn
+433,Miłosław,https://pl.wikipedia.org/wiki/Mi%C5%82os%C5%82aw
+434,Mińsk Mazowiecki,https://pl.wikipedia.org/wiki/Mi%C5%84sk_Mazowiecki
+435,Mirosławiec,https://pl.wikipedia.org/wiki/Miros%C5%82awiec
+436,Mirsk,https://pl.wikipedia.org/wiki/Mirsk
+437,Mława,https://pl.wikipedia.org/wiki/M%C5%82awa
+438,Młynary,https://pl.wikipedia.org/wiki/M%C5%82ynary
+439,Modliborzyce,https://pl.wikipedia.org/wiki/Modliborzyce
+440,Mogielnica,https://pl.wikipedia.org/wiki/Mogielnica
+441,Mogilno,https://pl.wikipedia.org/wiki/Mogilno
+442,Mońki,https://pl.wikipedia.org/wiki/Mo%C5%84ki
+443,Morawica,https://pl.wikipedia.org/wiki/Morawica
+444,Morąg,https://pl.wikipedia.org/wiki/Mor%C4%85g
+445,Mordy,https://pl.wikipedia.org/wiki/Mordy
+446,Moryń,https://pl.wikipedia.org/wiki/Mory%C5%84
+447,Mosina,https://pl.wikipedia.org/wiki/Mosina
+448,Mrągowo,https://pl.wikipedia.org/wiki/Mr%C4%85gowo
+449,Mrocza,https://pl.wikipedia.org/wiki/Mrocza
+450,Mrozy,https://pl.wikipedia.org/wiki/Mrozy
+451,Mszana Dolna,https://pl.wikipedia.org/wiki/Mszana_Dolna
+452,Mszczonów,https://pl.wikipedia.org/wiki/Mszczon%C3%B3w
+453,Murowana Goślina,https://pl.wikipedia.org/wiki/Murowana_Go%C5%9Blina
+454,Muszyna,https://pl.wikipedia.org/wiki/Muszyna
+455,Mysłowice,https://pl.wikipedia.org/wiki/Mys%C5%82owice
+456,Myszków,https://pl.wikipedia.org/wiki/Myszk%C3%B3w
+457,Myszyniec,https://pl.wikipedia.org/wiki/Myszyniec
+458,Myślenice,https://pl.wikipedia.org/wiki/My%C5%9Blenice
+459,Myślibórz,https://pl.wikipedia.org/wiki/My%C5%9Blib%C3%B3rz
+460,Nakło nad Notecią,https://pl.wikipedia.org/wiki/Nak%C5%82o_nad_Noteci%C4%85
+461,Nałęczów,https://pl.wikipedia.org/wiki/Na%C5%82%C4%99cz%C3%B3w
+462,Namysłów,https://pl.wikipedia.org/wiki/Namys%C5%82%C3%B3w
+463,Narol,https://pl.wikipedia.org/wiki/Narol
+464,Nasielsk,https://pl.wikipedia.org/wiki/Nasielsk
+465,Nekla,https://pl.wikipedia.org/wiki/Nekla
+466,Nidzica,https://pl.wikipedia.org/wiki/Nidzica
+467,Niemcza,https://pl.wikipedia.org/wiki/Niemcza
+468,Niemodlin,https://pl.wikipedia.org/wiki/Niemodlin
+469,Niepołomice,https://pl.wikipedia.org/wiki/Niepo%C5%82omice
+470,Nieszawa,https://pl.wikipedia.org/wiki/Nieszawa
+471,Nisko,https://pl.wikipedia.org/wiki/Nisko
+472,Nowa Dęba,https://pl.wikipedia.org/wiki/Nowa_D%C4%99ba
+473,Nowa Ruda,https://pl.wikipedia.org/wiki/Nowa_Ruda
+474,Nowa Sarzyna,https://pl.wikipedia.org/wiki/Nowa_Sarzyna
+475,Nowa Słupia,https://pl.wikipedia.org/wiki/Nowa_S%C5%82upia
+476,Nowa Sól,https://pl.wikipedia.org/wiki/Nowa_S%C3%B3l
+477,Nowe,https://pl.wikipedia.org/wiki/Nowe
+478,Nowe Brzesko,https://pl.wikipedia.org/wiki/Nowe_Brzesko
+479,Nowe Miasteczko,https://pl.wikipedia.org/wiki/Nowe_Miasteczko
+480,Nowe Miasto ,https://pl.wikipedia.org/wiki/Nowe_Miasto_(powiat_p%C5%82o%C5%84ski)
+481,Nowe Miasto Lubawskie,https://pl.wikipedia.org/wiki/Nowe_Miasto_Lubawskie
+482,Nowe Miasto nad Pilicą,https://pl.wikipedia.org/wiki/Nowe_Miasto_nad_Pilic%C4%85
+483,Nowe Skalmierzyce,https://pl.wikipedia.org/wiki/Nowe_Skalmierzyce
+484,Nowe Warpno,https://pl.wikipedia.org/wiki/Nowe_Warpno
+485,Nowogard,https://pl.wikipedia.org/wiki/Nowogard
+486,Nowogrodziec,https://pl.wikipedia.org/wiki/Nowogrodziec
+487,Nowogród,https://pl.wikipedia.org/wiki/Nowogr%C3%B3d
+488,Nowogród Bobrzański,https://pl.wikipedia.org/wiki/Nowogr%C3%B3d_Bobrza%C5%84ski
+489,Nowy Dwór Gdański,https://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Gda%C5%84ski
+490,Nowy Dwór Mazowiecki,https://pl.wikipedia.org/wiki/Nowy_Dw%C3%B3r_Mazowiecki
+491,Nowy Korczyn,https://pl.wikipedia.org/wiki/Nowy_Korczyn
+492,Nowy Sącz,https://pl.wikipedia.org/wiki/Nowy_S%C4%85cz
+493,Nowy Staw,https://pl.wikipedia.org/wiki/Nowy_Staw
+494,Nowy Targ,https://pl.wikipedia.org/wiki/Nowy_Targ
+495,Nowy Tomyśl,https://pl.wikipedia.org/wiki/Nowy_Tomy%C5%9Bl
+496,Nowy Wiśnicz,https://pl.wikipedia.org/wiki/Nowy_Wi%C5%9Bnicz
+497,Nysa,https://pl.wikipedia.org/wiki/Nysa
+498,Oborniki,https://pl.wikipedia.org/wiki/Oborniki
+499,Oborniki Śląskie,https://pl.wikipedia.org/wiki/Oborniki_%C5%9Al%C4%85skie
+500,Obrzycko,https://pl.wikipedia.org/wiki/Obrzycko
+501,Odolanów,https://pl.wikipedia.org/wiki/Odolan%C3%B3w
+502,Ogrodzieniec,https://pl.wikipedia.org/wiki/Ogrodzieniec
+503,Okonek,https://pl.wikipedia.org/wiki/Okonek
+504,Olecko,https://pl.wikipedia.org/wiki/Olecko
+505,Olesno,https://pl.wikipedia.org/wiki/Olesno
+506,Oleszyce,https://pl.wikipedia.org/wiki/Oleszyce
+507,Oleśnica,https://pl.wikipedia.org/wiki/Ole%C5%9Bnica
+508,Oleśnica ,https://pl.wikipedia.org/wiki/Ole%C5%9Bnica_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)
+509,Olkusz,https://pl.wikipedia.org/wiki/Olkusz
+510,Olsztyn ,https://pl.wikipedia.org/wiki/Olsztyn_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)
+511,Olsztyn,https://pl.wikipedia.org/wiki/Olsztyn
+512,Olsztynek,https://pl.wikipedia.org/wiki/Olsztynek
+513,Olszyna,https://pl.wikipedia.org/wiki/Olszyna
+514,Oława,https://pl.wikipedia.org/wiki/O%C5%82awa
+515,Opalenica,https://pl.wikipedia.org/wiki/Opalenica
+516,Opatowiec,https://pl.wikipedia.org/wiki/Opatowiec
+517,Opatów,https://pl.wikipedia.org/wiki/Opat%C3%B3w
+518,Opatówek,https://pl.wikipedia.org/wiki/Opat%C3%B3wek
+519,Opoczno,https://pl.wikipedia.org/wiki/Opoczno
+520,Opole,https://pl.wikipedia.org/wiki/Opole
+521,Opole Lubelskie,https://pl.wikipedia.org/wiki/Opole_Lubelskie
+522,Orneta,https://pl.wikipedia.org/wiki/Orneta
+523,Orzesze,https://pl.wikipedia.org/wiki/Orzesze
+524,Orzysz,https://pl.wikipedia.org/wiki/Orzysz
+525,Osieczna,https://pl.wikipedia.org/wiki/Osieczna
+526,Osiek ,https://pl.wikipedia.org/wiki/Osiek_(wojew%C3%B3dztwo_%C5%9Bwi%C4%99tokrzyskie)
+527,Ostrołęka,https://pl.wikipedia.org/wiki/Ostro%C5%82%C4%99ka
+528,Ostroróg,https://pl.wikipedia.org/wiki/Ostror%C3%B3g
+529,Ostrowiec Świętokrzyski,https://pl.wikipedia.org/wiki/Ostrowiec_%C5%9Awi%C4%99tokrzyski
+530,Ostróda,https://pl.wikipedia.org/wiki/Ostr%C3%B3da
+531,Ostrów Lubelski,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Lubelski
+532,Ostrów Mazowiecka,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Mazowiecka
+533,Ostrów Wielkopolski,https://pl.wikipedia.org/wiki/Ostr%C3%B3w_Wielkopolski
+534,Ostrzeszów,https://pl.wikipedia.org/wiki/Ostrzesz%C3%B3w
+535,Ośno Lubuskie,https://pl.wikipedia.org/wiki/O%C5%9Bno_Lubuskie
+536,Oświęcim,https://pl.wikipedia.org/wiki/O%C5%9Bwi%C4%99cim
+537,Otmuchów,https://pl.wikipedia.org/wiki/Otmuch%C3%B3w
+538,Otwock,https://pl.wikipedia.org/wiki/Otwock
+539,Otyń,https://pl.wikipedia.org/wiki/Oty%C5%84
+540,Ozimek,https://pl.wikipedia.org/wiki/Ozimek
+541,Ozorków,https://pl.wikipedia.org/wiki/Ozork%C3%B3w
+542,Ożarów,https://pl.wikipedia.org/wiki/O%C5%BCar%C3%B3w
+543,Ożarów Mazowiecki,https://pl.wikipedia.org/wiki/O%C5%BCar%C3%B3w_Mazowiecki
+544,Pabianice,https://pl.wikipedia.org/wiki/Pabianice
+545,Pacanów,https://pl.wikipedia.org/wiki/Pacan%C3%B3w
+546,Paczków,https://pl.wikipedia.org/wiki/Paczk%C3%B3w
+547,Pajęczno,https://pl.wikipedia.org/wiki/Paj%C4%99czno
+548,Pakość,https://pl.wikipedia.org/wiki/Pako%C5%9B%C4%87
+549,Parczew,https://pl.wikipedia.org/wiki/Parczew
+550,Pasłęk,https://pl.wikipedia.org/wiki/Pas%C5%82%C4%99k
+551,Pasym,https://pl.wikipedia.org/wiki/Pasym
+552,Pelplin,https://pl.wikipedia.org/wiki/Pelplin
+553,Pełczyce,https://pl.wikipedia.org/wiki/Pe%C5%82czyce
+554,Piaseczno,https://pl.wikipedia.org/wiki/Piaseczno
+555,Piaski ,https://pl.wikipedia.org/wiki/Piaski_(powiat_%C5%9Bwidnicki)
+556,Piastów,https://pl.wikipedia.org/wiki/Piast%C3%B3w
+557,Piątek ,https://pl.wikipedia.org/wiki/Pi%C4%85tek_(miasto)
+558,Piechowice,https://pl.wikipedia.org/wiki/Piechowice
+559,Piekary Śląskie,https://pl.wikipedia.org/wiki/Piekary_%C5%9Al%C4%85skie
+560,Pieniężno,https://pl.wikipedia.org/wiki/Pieni%C4%99%C5%BCno
+561,Pieńsk,https://pl.wikipedia.org/wiki/Pie%C5%84sk
+562,Pierzchnica,https://pl.wikipedia.org/wiki/Pierzchnica
+563,Pieszyce,https://pl.wikipedia.org/wiki/Pieszyce
+564,Pilawa ,https://pl.wikipedia.org/wiki/Pilawa_(powiat_garwoli%C5%84ski)
+565,Pilica ,https://pl.wikipedia.org/wiki/Pilica_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)
+566,Pilzno ,https://pl.wikipedia.org/wiki/Pilzno_(Polska)
+567,Piła ,https://pl.wikipedia.org/wiki/Pi%C5%82a_(miasto)
+568,Piława Górna,https://pl.wikipedia.org/wiki/Pi%C5%82awa_G%C3%B3rna
+569,Pińczów,https://pl.wikipedia.org/wiki/Pi%C5%84cz%C3%B3w
+570,Pionki,https://pl.wikipedia.org/wiki/Pionki
+571,Piotrków Kujawski,https://pl.wikipedia.org/wiki/Piotrk%C3%B3w_Kujawski
+572,Piotrków Trybunalski,https://pl.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski
+573,Pisz,https://pl.wikipedia.org/wiki/Pisz
+574,Pleszew,https://pl.wikipedia.org/wiki/Pleszew
+575,Płock,https://pl.wikipedia.org/wiki/P%C5%82ock
+576,Płońsk,https://pl.wikipedia.org/wiki/P%C5%82o%C5%84sk
+577,Płoty,https://pl.wikipedia.org/wiki/P%C5%82oty
+578,Pniewy,https://pl.wikipedia.org/wiki/Pniewy
+579,Pobiedziska,https://pl.wikipedia.org/wiki/Pobiedziska
+580,Poddębice,https://pl.wikipedia.org/wiki/Podd%C4%99bice
+581,Podkowa Leśna,https://pl.wikipedia.org/wiki/Podkowa_Le%C5%9Bna
+582,Pogorzela,https://pl.wikipedia.org/wiki/Pogorzela
+583,Polanów,https://pl.wikipedia.org/wiki/Polan%C3%B3w
+584,Police,https://pl.wikipedia.org/wiki/Police
+585,Polkowice,https://pl.wikipedia.org/wiki/Polkowice
+586,Połaniec,https://pl.wikipedia.org/wiki/Po%C5%82aniec
+587,Poniatowa,https://pl.wikipedia.org/wiki/Poniatowa
+588,Poniec,https://pl.wikipedia.org/wiki/Poniec
+589,Poręba,https://pl.wikipedia.org/wiki/Por%C4%99ba
+590,Poznań,https://pl.wikipedia.org/wiki/Pozna%C5%84
+591,Prabuty,https://pl.wikipedia.org/wiki/Prabuty
+592,Praszka,https://pl.wikipedia.org/wiki/Praszka
+593,Prochowice,https://pl.wikipedia.org/wiki/Prochowice
+594,Proszowice,https://pl.wikipedia.org/wiki/Proszowice
+595,Prószków,https://pl.wikipedia.org/wiki/Pr%C3%B3szk%C3%B3w
+596,Pruchnik,https://pl.wikipedia.org/wiki/Pruchnik
+597,Prudnik,https://pl.wikipedia.org/wiki/Prudnik
+598,Prusice,https://pl.wikipedia.org/wiki/Prusice
+599,Pruszcz ,https://pl.wikipedia.org/wiki/Pruszcz_(powiat_%C5%9Bwiecki)
+600,Pruszcz Gdański,https://pl.wikipedia.org/wiki/Pruszcz_Gda%C5%84ski
+601,Pruszków,https://pl.wikipedia.org/wiki/Pruszk%C3%B3w
+602,Przasnysz,https://pl.wikipedia.org/wiki/Przasnysz
+603,Przecław,https://pl.wikipedia.org/wiki/Przec%C5%82aw
+604,Przedbórz,https://pl.wikipedia.org/wiki/Przedb%C3%B3rz
+605,Przedecz,https://pl.wikipedia.org/wiki/Przedecz
+606,Przemków,https://pl.wikipedia.org/wiki/Przemk%C3%B3w
+607,Przemyśl,https://pl.wikipedia.org/wiki/Przemy%C5%9Bl
+608,Przeworsk,https://pl.wikipedia.org/wiki/Przeworsk
+609,Przysucha,https://pl.wikipedia.org/wiki/Przysucha
+610,Pszczyna,https://pl.wikipedia.org/wiki/Pszczyna
+611,Pszów,https://pl.wikipedia.org/wiki/Psz%C3%B3w
+612,Puck,https://pl.wikipedia.org/wiki/Puck
+613,Puławy,https://pl.wikipedia.org/wiki/Pu%C5%82awy
+614,Pułtusk,https://pl.wikipedia.org/wiki/Pu%C5%82tusk
+615,Puszczykowo,https://pl.wikipedia.org/wiki/Puszczykowo
+616,Pyrzyce,https://pl.wikipedia.org/wiki/Pyrzyce
+617,Pyskowice,https://pl.wikipedia.org/wiki/Pyskowice
+618,Pyzdry,https://pl.wikipedia.org/wiki/Pyzdry
+619,Raciąż,https://pl.wikipedia.org/wiki/Raci%C4%85%C5%BC
+620,Racibórz,https://pl.wikipedia.org/wiki/Racib%C3%B3rz
+621,Radków,https://pl.wikipedia.org/wiki/Radk%C3%B3w
+622,Radlin,https://pl.wikipedia.org/wiki/Radlin
+623,Radłów,https://pl.wikipedia.org/wiki/Rad%C5%82%C3%B3w
+624,Radom,https://pl.wikipedia.org/wiki/Radom
+625,Radomsko,https://pl.wikipedia.org/wiki/Radomsko
+626,Radomyśl Wielki,https://pl.wikipedia.org/wiki/Radomy%C5%9Bl_Wielki
+627,Radoszyce,https://pl.wikipedia.org/wiki/Radoszyce
+628,Radymno,https://pl.wikipedia.org/wiki/Radymno
+629,Radziejów,https://pl.wikipedia.org/wiki/Radziej%C3%B3w
+630,Radzionków,https://pl.wikipedia.org/wiki/Radzionk%C3%B3w
+631,Radzymin,https://pl.wikipedia.org/wiki/Radzymin
+632,Radzyń Chełmiński,https://pl.wikipedia.org/wiki/Radzy%C5%84_Che%C5%82mi%C5%84ski
+633,Radzyń Podlaski,https://pl.wikipedia.org/wiki/Radzy%C5%84_Podlaski
+634,Rajgród,https://pl.wikipedia.org/wiki/Rajgr%C3%B3d
+635,Rakoniewice,https://pl.wikipedia.org/wiki/Rakoniewice
+636,Raszków,https://pl.wikipedia.org/wiki/Raszk%C3%B3w
+637,Rawa Mazowiecka,https://pl.wikipedia.org/wiki/Rawa_Mazowiecka
+638,Rawicz,https://pl.wikipedia.org/wiki/Rawicz
+639,Recz,https://pl.wikipedia.org/wiki/Recz
+640,Reda ,https://pl.wikipedia.org/wiki/Reda_(miasto)
+641,Rejowiec,https://pl.wikipedia.org/wiki/Rejowiec
+642,Rejowiec Fabryczny,https://pl.wikipedia.org/wiki/Rejowiec_Fabryczny
+643,Resko,https://pl.wikipedia.org/wiki/Resko
+644,Reszel,https://pl.wikipedia.org/wiki/Reszel
+645,Rogoźno,https://pl.wikipedia.org/wiki/Rogo%C5%BAno
+646,Ropczyce,https://pl.wikipedia.org/wiki/Ropczyce
+647,Różan,https://pl.wikipedia.org/wiki/R%C3%B3%C5%BCan
+648,Ruda Śląska,https://pl.wikipedia.org/wiki/Ruda_%C5%9Al%C4%85ska
+649,Rudnik nad Sanem,https://pl.wikipedia.org/wiki/Rudnik_nad_Sanem
+650,Rumia,https://pl.wikipedia.org/wiki/Rumia
+651,Rybnik,https://pl.wikipedia.org/wiki/Rybnik
+652,Rychwał,https://pl.wikipedia.org/wiki/Rychwa%C5%82
+653,Rydułtowy,https://pl.wikipedia.org/wiki/Rydu%C5%82towy
+654,Rydzyna,https://pl.wikipedia.org/wiki/Rydzyna
+655,Ryglice,https://pl.wikipedia.org/wiki/Ryglice
+656,Ryki,https://pl.wikipedia.org/wiki/Ryki
+657,Rymanów,https://pl.wikipedia.org/wiki/Ryman%C3%B3w
+658,Ryn,https://pl.wikipedia.org/wiki/Ryn
+659,Rypin,https://pl.wikipedia.org/wiki/Rypin
+660,Rzepin,https://pl.wikipedia.org/wiki/Rzepin
+661,Rzeszów,https://pl.wikipedia.org/wiki/Rzesz%C3%B3w
+662,Rzgów,https://pl.wikipedia.org/wiki/Rzg%C3%B3w
+663,Sandomierz,https://pl.wikipedia.org/wiki/Sandomierz
+664,Sanniki,https://pl.wikipedia.org/wiki/Sanniki
+665,Sanok,https://pl.wikipedia.org/wiki/Sanok
+666,Sejny,https://pl.wikipedia.org/wiki/Sejny
+667,Serock,https://pl.wikipedia.org/wiki/Serock
+668,Sędziszów,https://pl.wikipedia.org/wiki/S%C4%99dzisz%C3%B3w
+669,Sędziszów Małopolski,https://pl.wikipedia.org/wiki/S%C4%99dzisz%C3%B3w_Ma%C5%82opolski
+670,Sępopol,https://pl.wikipedia.org/wiki/S%C4%99popol
+671,Sępólno Krajeńskie,https://pl.wikipedia.org/wiki/S%C4%99p%C3%B3lno_Kraje%C5%84skie
+672,Sianów,https://pl.wikipedia.org/wiki/Sian%C3%B3w
+673,Siechnice,https://pl.wikipedia.org/wiki/Siechnice
+674,Siedlce,https://pl.wikipedia.org/wiki/Siedlce
+675,Siedliszcze,https://pl.wikipedia.org/wiki/Siedliszcze
+676,Siemianowice Śląskie,https://pl.wikipedia.org/wiki/Siemianowice_%C5%9Al%C4%85skie
+677,Siemiatycze,https://pl.wikipedia.org/wiki/Siemiatycze
+678,Sieniawa,https://pl.wikipedia.org/wiki/Sieniawa
+679,Sieradz,https://pl.wikipedia.org/wiki/Sieradz
+680,Sieraków,https://pl.wikipedia.org/wiki/Sierak%C3%B3w
+681,Sierpc,https://pl.wikipedia.org/wiki/Sierpc
+682,Siewierz,https://pl.wikipedia.org/wiki/Siewierz
+683,Skalbmierz,https://pl.wikipedia.org/wiki/Skalbmierz
+684,Skała ,https://pl.wikipedia.org/wiki/Ska%C5%82a_(wojew%C3%B3dztwo_ma%C5%82opolskie)
+685,Skarszewy,https://pl.wikipedia.org/wiki/Skarszewy
+686,Skaryszew,https://pl.wikipedia.org/wiki/Skaryszew
+687,Skawina,https://pl.wikipedia.org/wiki/Skawina
+688,Skępe,https://pl.wikipedia.org/wiki/Sk%C4%99pe
+689,Skierniewice,https://pl.wikipedia.org/wiki/Skierniewice
+690,Skoczów,https://pl.wikipedia.org/wiki/Skocz%C3%B3w
+691,Skoki ,https://pl.wikipedia.org/wiki/Skoki_(powiat_w%C4%85growiecki)
+692,Skórcz,https://pl.wikipedia.org/wiki/Sk%C3%B3rcz
+693,Skwierzyna,https://pl.wikipedia.org/wiki/Skwierzyna
+694,Sława ,https://pl.wikipedia.org/wiki/S%C5%82awa_(miasto)
+695,Sławków ,https://pl.wikipedia.org/wiki/S%C5%82awk%C3%B3w_(wojew%C3%B3dztwo_%C5%9Bl%C4%85skie)
+696,Sławno,https://pl.wikipedia.org/wiki/S%C5%82awno
+697,Słomniki,https://pl.wikipedia.org/wiki/S%C5%82omniki
+698,Słubice,https://pl.wikipedia.org/wiki/S%C5%82ubice
+699,Słupca,https://pl.wikipedia.org/wiki/S%C5%82upca
+700,Słupsk,https://pl.wikipedia.org/wiki/S%C5%82upsk
+701,Sobótka ,https://pl.wikipedia.org/wiki/Sob%C3%B3tka_(powiat_wroc%C5%82awski)
+702,Sochaczew,https://pl.wikipedia.org/wiki/Sochaczew
+703,Sochocin,https://pl.wikipedia.org/wiki/Sochocin
+704,Sokołów Małopolski,https://pl.wikipedia.org/wiki/Soko%C5%82%C3%B3w_Ma%C5%82opolski
+705,Sokołów Podlaski,https://pl.wikipedia.org/wiki/Soko%C5%82%C3%B3w_Podlaski
+706,Sokółka,https://pl.wikipedia.org/wiki/Sok%C3%B3%C5%82ka
+707,Solec Kujawski,https://pl.wikipedia.org/wiki/Solec_Kujawski
+708,Solec nad Wisłą,https://pl.wikipedia.org/wiki/Solec_nad_Wis%C5%82%C4%85
+709,Sompolno,https://pl.wikipedia.org/wiki/Sompolno
+710,Sopot,https://pl.wikipedia.org/wiki/Sopot
+711,Sosnowiec,https://pl.wikipedia.org/wiki/Sosnowiec
+712,Sośnicowice,https://pl.wikipedia.org/wiki/So%C5%9Bnicowice
+713,Stalowa Wola,https://pl.wikipedia.org/wiki/Stalowa_Wola
+714,Starachowice,https://pl.wikipedia.org/wiki/Starachowice
+715,Stargard,https://pl.wikipedia.org/wiki/Stargard
+716,Starogard Gdański,https://pl.wikipedia.org/wiki/Starogard_Gda%C5%84ski
+717,Stary Sącz,https://pl.wikipedia.org/wiki/Stary_S%C4%85cz
+718,Staszów,https://pl.wikipedia.org/wiki/Stasz%C3%B3w
+719,Stawiski,https://pl.wikipedia.org/wiki/Stawiski
+720,Stawiszyn,https://pl.wikipedia.org/wiki/Stawiszyn
+721,Stąporków,https://pl.wikipedia.org/wiki/St%C4%85pork%C3%B3w
+722,Stepnica,https://pl.wikipedia.org/wiki/Stepnica
+723,Stęszew,https://pl.wikipedia.org/wiki/St%C4%99szew
+724,Stoczek Łukowski,https://pl.wikipedia.org/wiki/Stoczek_%C5%81ukowski
+725,Stopnica,https://pl.wikipedia.org/wiki/Stopnica
+726,Stronie Śląskie,https://pl.wikipedia.org/wiki/Stronie_%C5%9Al%C4%85skie
+727,Strumień ,https://pl.wikipedia.org/wiki/Strumie%C5%84_(miasto)
+728,Stryków,https://pl.wikipedia.org/wiki/Stryk%C3%B3w
+729,Strzegom,https://pl.wikipedia.org/wiki/Strzegom
+730,Strzelce Krajeńskie,https://pl.wikipedia.org/wiki/Strzelce_Kraje%C5%84skie
+731,Strzelce Opolskie,https://pl.wikipedia.org/wiki/Strzelce_Opolskie
+732,Strzelin,https://pl.wikipedia.org/wiki/Strzelin
+733,Strzelno,https://pl.wikipedia.org/wiki/Strzelno
+734,Strzyżów,https://pl.wikipedia.org/wiki/Strzy%C5%BC%C3%B3w
+735,Sucha Beskidzka,https://pl.wikipedia.org/wiki/Sucha_Beskidzka
+736,Suchań,https://pl.wikipedia.org/wiki/Sucha%C5%84
+737,Suchedniów,https://pl.wikipedia.org/wiki/Suchedni%C3%B3w
+738,Suchowola,https://pl.wikipedia.org/wiki/Suchowola
+739,Sulechów,https://pl.wikipedia.org/wiki/Sulech%C3%B3w
+740,Sulejów,https://pl.wikipedia.org/wiki/Sulej%C3%B3w
+741,Sulejówek,https://pl.wikipedia.org/wiki/Sulej%C3%B3wek
+742,Sulęcin,https://pl.wikipedia.org/wiki/Sul%C4%99cin
+743,Sulmierzyce,https://pl.wikipedia.org/wiki/Sulmierzyce
+744,Sułkowice,https://pl.wikipedia.org/wiki/Su%C5%82kowice
+745,Supraśl,https://pl.wikipedia.org/wiki/Supra%C5%9Bl
+746,Suraż,https://pl.wikipedia.org/wiki/Sura%C5%BC
+747,Susz,https://pl.wikipedia.org/wiki/Susz
+748,Suwałki,https://pl.wikipedia.org/wiki/Suwa%C5%82ki
+749,Swarzędz,https://pl.wikipedia.org/wiki/Swarz%C4%99dz
+750,Syców,https://pl.wikipedia.org/wiki/Syc%C3%B3w
+751,Szadek,https://pl.wikipedia.org/wiki/Szadek
+752,Szamocin,https://pl.wikipedia.org/wiki/Szamocin
+753,Szamotuły,https://pl.wikipedia.org/wiki/Szamotu%C5%82y
+754,Szczawnica,https://pl.wikipedia.org/wiki/Szczawnica
+755,Szczebrzeszyn,https://pl.wikipedia.org/wiki/Szczebrzeszyn
+756,Szczecin,https://pl.wikipedia.org/wiki/Szczecin
+757,Szczecinek,https://pl.wikipedia.org/wiki/Szczecinek
+758,Szczekociny,https://pl.wikipedia.org/wiki/Szczekociny
+759,Szczucin,https://pl.wikipedia.org/wiki/Szczucin
+760,Szczuczyn ,https://pl.wikipedia.org/wiki/Szczuczyn_(wojew%C3%B3dztwo_podlaskie)
+761,Szczyrk,https://pl.wikipedia.org/wiki/Szczyrk
+762,Szczytna,https://pl.wikipedia.org/wiki/Szczytna
+763,Szczytno,https://pl.wikipedia.org/wiki/Szczytno
+764,Szepietowo,https://pl.wikipedia.org/wiki/Szepietowo
+765,Szklarska Poręba,https://pl.wikipedia.org/wiki/Szklarska_Por%C4%99ba
+766,Szlichtyngowa,https://pl.wikipedia.org/wiki/Szlichtyngowa
+767,Szprotawa,https://pl.wikipedia.org/wiki/Szprotawa
+768,Sztum,https://pl.wikipedia.org/wiki/Sztum
+769,Szubin,https://pl.wikipedia.org/wiki/Szubin
+770,Szydłów,https://pl.wikipedia.org/wiki/Szyd%C5%82%C3%B3w
+771,Szydłowiec,https://pl.wikipedia.org/wiki/Szyd%C5%82owiec
+772,Ścinawa,https://pl.wikipedia.org/wiki/%C5%9Acinawa
+773,Ślesin,https://pl.wikipedia.org/wiki/%C5%9Alesin
+774,Śmigiel,https://pl.wikipedia.org/wiki/%C5%9Amigiel
+775,Śrem,https://pl.wikipedia.org/wiki/%C5%9Arem
+776,Środa Śląska,https://pl.wikipedia.org/wiki/%C5%9Aroda_%C5%9Al%C4%85ska
+777,Środa Wielkopolska,https://pl.wikipedia.org/wiki/%C5%9Aroda_Wielkopolska
+778,Świątniki Górne,https://pl.wikipedia.org/wiki/%C5%9Awi%C4%85tniki_G%C3%B3rne
+779,Świdnica,https://pl.wikipedia.org/wiki/%C5%9Awidnica
+780,Świdnik,https://pl.wikipedia.org/wiki/%C5%9Awidnik
+781,Świdwin,https://pl.wikipedia.org/wiki/%C5%9Awidwin
+782,Świebodzice,https://pl.wikipedia.org/wiki/%C5%9Awiebodzice
+783,Świebodzin,https://pl.wikipedia.org/wiki/%C5%9Awiebodzin
+784,Świecie,https://pl.wikipedia.org/wiki/%C5%9Awiecie
+785,Świerzawa,https://pl.wikipedia.org/wiki/%C5%9Awierzawa
+786,Świętochłowice,https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99toch%C5%82owice
+787,Świnoujście,https://pl.wikipedia.org/wiki/%C5%9Awinouj%C5%9Bcie
+788,Tarczyn,https://pl.wikipedia.org/wiki/Tarczyn
+789,Tarnobrzeg,https://pl.wikipedia.org/wiki/Tarnobrzeg
+790,Tarnogród,https://pl.wikipedia.org/wiki/Tarnogr%C3%B3d
+791,Tarnowskie Góry,https://pl.wikipedia.org/wiki/Tarnowskie_G%C3%B3ry
+792,Tarnów,https://pl.wikipedia.org/wiki/Tarn%C3%B3w
+793,Tczew,https://pl.wikipedia.org/wiki/Tczew
+794,Terespol,https://pl.wikipedia.org/wiki/Terespol
+795,Tłuszcz ,https://pl.wikipedia.org/wiki/T%C5%82uszcz_(powiat_wo%C5%82omi%C5%84ski)
+796,Tolkmicko,https://pl.wikipedia.org/wiki/Tolkmicko
+797,Tomaszów Lubelski,https://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Lubelski
+798,Tomaszów Mazowiecki,https://pl.wikipedia.org/wiki/Tomasz%C3%B3w_Mazowiecki
+799,Toruń,https://pl.wikipedia.org/wiki/Toru%C5%84
+800,Torzym,https://pl.wikipedia.org/wiki/Torzym
+801,Toszek,https://pl.wikipedia.org/wiki/Toszek
+802,Trzcianka,https://pl.wikipedia.org/wiki/Trzcianka
+803,Trzciel,https://pl.wikipedia.org/wiki/Trzciel
+804,Trzebiatów,https://pl.wikipedia.org/wiki/Trzebiat%C3%B3w
+805,Trzebinia,https://pl.wikipedia.org/wiki/Trzebinia
+806,Trzebnica,https://pl.wikipedia.org/wiki/Trzebnica
+807,Trzemeszno,https://pl.wikipedia.org/wiki/Trzemeszno
+808,Tuchola,https://pl.wikipedia.org/wiki/Tuchola
+809,Tuchów,https://pl.wikipedia.org/wiki/Tuch%C3%B3w
+810,Tuczno,https://pl.wikipedia.org/wiki/Tuczno
+811,Tuliszków,https://pl.wikipedia.org/wiki/Tuliszk%C3%B3w
+812,Tułowice,https://pl.wikipedia.org/wiki/Tu%C5%82owice
+813,Turek,https://pl.wikipedia.org/wiki/Turek
+814,Tuszyn,https://pl.wikipedia.org/wiki/Tuszyn
+815,Twardogóra,https://pl.wikipedia.org/wiki/Twardog%C3%B3ra
+816,Tychowo,https://pl.wikipedia.org/wiki/Tychowo
+817,Tychy,https://pl.wikipedia.org/wiki/Tychy
+818,Tyczyn,https://pl.wikipedia.org/wiki/Tyczyn
+819,Tykocin,https://pl.wikipedia.org/wiki/Tykocin
+820,Tyszowce,https://pl.wikipedia.org/wiki/Tyszowce
+821,Ujazd,https://pl.wikipedia.org/wiki/Ujazd
+822,Ujście ,https://pl.wikipedia.org/wiki/Uj%C5%9Bcie_(miasto)
+823,Ulanów,https://pl.wikipedia.org/wiki/Ulan%C3%B3w
+824,Uniejów,https://pl.wikipedia.org/wiki/Uniej%C3%B3w
+825,Urzędów,https://pl.wikipedia.org/wiki/Urz%C4%99d%C3%B3w
+826,Ustka,https://pl.wikipedia.org/wiki/Ustka
+827,Ustroń,https://pl.wikipedia.org/wiki/Ustro%C5%84
+828,Ustrzyki Dolne,https://pl.wikipedia.org/wiki/Ustrzyki_Dolne
+829,Wadowice,https://pl.wikipedia.org/wiki/Wadowice
+830,Wałbrzych,https://pl.wikipedia.org/wiki/Wa%C5%82brzych
+831,Wałcz,https://pl.wikipedia.org/wiki/Wa%C5%82cz
+832,Warka,https://pl.wikipedia.org/wiki/Warka
+833,Warszawa,https://pl.wikipedia.org/wiki/Warszawa
+834,Warta ,https://pl.wikipedia.org/wiki/Warta_(miasto)
+835,Wasilków,https://pl.wikipedia.org/wiki/Wasilk%C3%B3w
+836,Wąbrzeźno,https://pl.wikipedia.org/wiki/W%C4%85brze%C5%BAno
+837,Wąchock,https://pl.wikipedia.org/wiki/W%C4%85chock
+838,Wągrowiec,https://pl.wikipedia.org/wiki/W%C4%85growiec
+839,Wąsosz ,https://pl.wikipedia.org/wiki/W%C4%85sosz_(wojew%C3%B3dztwo_dolno%C5%9Bl%C4%85skie)
+840,Wejherowo,https://pl.wikipedia.org/wiki/Wejherowo
+841,Węgliniec,https://pl.wikipedia.org/wiki/W%C4%99gliniec
+842,Węgorzewo,https://pl.wikipedia.org/wiki/W%C4%99gorzewo
+843,Węgorzyno,https://pl.wikipedia.org/wiki/W%C4%99gorzyno
+844,Węgrów,https://pl.wikipedia.org/wiki/W%C4%99gr%C3%B3w
+845,Wiązów,https://pl.wikipedia.org/wiki/Wi%C4%85z%C3%B3w
+846,Wielbark,https://pl.wikipedia.org/wiki/Wielbark
+847,Wieleń,https://pl.wikipedia.org/wiki/Wiele%C5%84
+848,Wielichowo,https://pl.wikipedia.org/wiki/Wielichowo
+849,Wieliczka,https://pl.wikipedia.org/wiki/Wieliczka
+850,Wieluń,https://pl.wikipedia.org/wiki/Wielu%C5%84
+851,Wieruszów,https://pl.wikipedia.org/wiki/Wierusz%C3%B3w
+852,Więcbork,https://pl.wikipedia.org/wiki/Wi%C4%99cbork
+853,Wilamowice,https://pl.wikipedia.org/wiki/Wilamowice
+854,Wiskitki,https://pl.wikipedia.org/wiki/Wiskitki
+855,Wisła ,https://pl.wikipedia.org/wiki/Wis%C5%82a_(miasto)
+856,Wiślica,https://pl.wikipedia.org/wiki/Wi%C5%9Blica
+857,Witkowo,https://pl.wikipedia.org/wiki/Witkowo
+858,Witnica,https://pl.wikipedia.org/wiki/Witnica
+859,Wleń,https://pl.wikipedia.org/wiki/Wle%C5%84
+860,Władysławowo,https://pl.wikipedia.org/wiki/W%C5%82adys%C5%82awowo
+861,Włocławek,https://pl.wikipedia.org/wiki/W%C5%82oc%C5%82awek
+862,Włodawa,https://pl.wikipedia.org/wiki/W%C5%82odawa
+863,Włoszczowa,https://pl.wikipedia.org/wiki/W%C5%82oszczowa
+864,Wodzisław,https://pl.wikipedia.org/wiki/Wodzis%C5%82aw
+865,Wodzisław Śląski,https://pl.wikipedia.org/wiki/Wodzis%C5%82aw_%C5%9Al%C4%85ski
+866,Wojcieszów,https://pl.wikipedia.org/wiki/Wojciesz%C3%B3w
+867,Wojkowice,https://pl.wikipedia.org/wiki/Wojkowice
+868,Wojnicz,https://pl.wikipedia.org/wiki/Wojnicz
+869,Wolbórz,https://pl.wikipedia.org/wiki/Wolb%C3%B3rz
